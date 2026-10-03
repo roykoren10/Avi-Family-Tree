@@ -36,7 +36,16 @@ for name, content in notes.items():
     assert name in documents and (root / documents[name]['file']).read_text() == content, name
     assert '/Users/' not in content, name
 assert len([document for document in documents if '1908-marriage-scan' in document]) == 39
-assert len(documents) == 95
+assert len(documents) == 101
+assert {doc['id'] for doc in documents.values() if doc['type'] == 'MD'} == set(notes)
+for name in ['yocheved-grave-identification.md', 'myheritage-match-followup.md', 'plonsk-1914-birth-reading.md', 'plonsk-1915-birth-reading.md', 'banko-name-change-followup.md', 'kosava-original-records-route.md']:
+    content = notes[name]
+    assert not any(private in content for private in ['discovery-hub/', 'match-compare/', 'perm_id=', '../work/']), name
+    assert documents[name]['bytes'] == len(content.encode()), name
+assert people['yocheved']['dates'] == 'מגורי קוסוב פולסקי ב־1933'
+assert any(fact['confidence'] == 'candidate' and 'BG24024099' in fact['text'] and 'אין בעל' in fact['text'] for fact in people['yocheved']['facts'])
+assert 'י״ג סיון תש״י' in notes['yocheved-grave-identification.md']
+assert '42' in notes['plonsk-1915-birth-reading.md'] and 'Baum' in notes['plonsk-1915-birth-reading.md']
 assert people['avraham']['dates'] == '29.11.1945' and people['avraham']['status'] == 'family'
 assert not any(r['kind'] == 'spouse' and 'zipporah' in [r['fromId'], r['toId']] for r in data['relationships'])
 assert {r['fromId'] for r in data['relationships'] if r['toId'] == 'lucia' and r['kind'] == 'parent'} == {'moshe', 'yocheved'}
