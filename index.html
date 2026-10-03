@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#234b3d">
+  <meta name="description" content="Avi Family Tree: ארכיון משפחת ירקוני, בנקו, מיליקובסקי ומרמור. עץ אינטראקטיבי, תעודות מקור ומחקר מתועד בעברית.">
+  <title>Avi Family Tree | ארכיון המשפחה</title>
+  <link rel="stylesheet" href="style.css"><script type="module" src="app.js"></script>
+</head>
+<body>
+<a class="skip-link" href="#main">דילוג לתוכן</a>
+<header class="site-header">
+  <a class="brand" href="#tree"><span class="brand-mark" aria-hidden="true">א</span><span lang="en" dir="ltr">Avi Family Tree</span></a>
+  <nav aria-label="ניווט ראשי"><a href="#tree">עץ המשפחה</a><a href="#library">מסמכים</a><a href="#timeline">ציר זמן</a><a href="#research">מחקר</a></nav>
+  <button id="theme" class="text-button" aria-label="שינוי ערכת צבעים">תצוגה כהה</button>
+</header>
+<main id="main">
+  <section class="intro" aria-labelledby="title">
+    <div><p class="kicker">ירקוני / בנקו / מיליקובסקי / מרמור</p><h1 id="title">המשפחה, דרך המקורות.</h1><p class="intro-copy">מאברהם עמנואל בעפולה אל דורות קודמים. עץ משפחה, מסמכים מקוריים ושאלות שעדיין פתוחות.</p><div id="stats" class="stats" aria-label="היקף הארכיון"></div></div>
+    <figure class="intro-document"><img src="assets/documents/davar-wedding-ad-1945.png" width="1400" height="1000" alt="מודעת נישואי לוסיה מיליקובסקי וצבי ירקוני בעיתון דבר, 19 בינואר 1945"><figcaption>מודעת החופה של צבי ולוסיה, דבר, 19.1.1945</figcaption></figure>
+  </section>
+  <div class="main-tabs" role="navigation" aria-label="תצוגות הארכיון"><a href="#tree" data-view="tree">עץ המשפחה</a><a href="#library" data-view="library">ספריית המסמכים</a><a href="#timeline" data-view="timeline">ציר הזמן</a><a href="#research" data-view="research">ממצאים ויומן מחקר</a></div>
+  <div id="loading" class="loading"><div></div><p>טוען את הארכיון המשפחתי…</p></div>
+  <section id="tree" class="view" hidden aria-labelledby="tree-title">
+    <div class="section-top"><h2 id="tree-title">עץ המשפחה</h2><p>בחרו אדם כדי לקרוא את הסיפור המתועד שלו ולפתוח את מסמכי המקור.</p></div>
+    <div class="explorer-toolbar"><div class="field search-field"><label for="person-search">חיפוש אדם</label><input id="person-search" type="search" placeholder="שם, כינוי או מקום…" autocomplete="off"></div><div class="field"><label for="branch">ענף משפחתי</label><select id="branch"></select></div><div class="field"><label for="confidence">סוג המידע</label><select id="confidence"><option value="all">כל סוגי המידע</option><option value="documented">מתועד במקור</option><option value="family">מידע משפחתי</option><option value="secondary">מקור משני</option><option value="candidate">מועמד למחקר</option></select></div></div>
+    <div id="search-results" class="search-results" aria-live="polite" hidden></div>
+    <div class="explorer">
+      <div class="tree-column"><div class="branch-heading"><h3 id="branch-title"></h3><p id="branch-note"></p></div>
+        <div class="tree-controls"><div class="segmented"><button id="graph-mode" aria-pressed="true">עץ</button><button id="list-mode" aria-pressed="false">רשימה</button></div><div class="zoom-controls"><button id="zoom-out" aria-label="הקטנת העץ">−</button><output id="zoom-label" aria-live="polite">100%</output><button id="zoom-in" aria-label="הגדלת העץ">+</button><button id="fit">התאמה למסך</button></div></div>
+        <div id="graph-viewport" class="graph-viewport" tabindex="0" role="region" aria-label="עץ משפחה שניתן להזיז בגלילה או לגרור. אפשר לבחור אנשים באמצעות מקש Tab."><div id="graph-size"><div id="graph"></div></div></div>
+        <div id="person-list" class="person-list" hidden></div>
+        <div class="legend"><span><i class="line documented"></i>מקור מתועד</span><span><i class="line family"></i>מידע משפחתי</span><span><i class="line secondary"></i>מקור משני</span><span><i class="line candidate"></i>מועמד / זיהוי פתוח</span></div>
+        <p class="tree-hint">קווים אנכיים מציינים הורות, קווים אופקיים זוגיות. סוג הקו מציין את מקור הקשר. הענפים המועמדים מוצגים בנפרד.</p>
+      </div>
+      <aside id="person-panel" class="person-panel" aria-label="תיק אדם" tabindex="-1"></aside>
+    </div>
+  </section>
+  <section id="library" class="view" hidden aria-labelledby="library-title"><div class="section-top"><h2 id="library-title">ספריית המסמכים</h2><p>כל הסריקות ודוחות המחקר שנשמרו. פתיחת מסמך אינה מעידה שכל השמות בו פוענחו או שויכו למשפחה.</p></div><div class="library-toolbar"><div class="field search-field"><label for="document-search">חיפוש מסמך</label><input id="document-search" type="search" placeholder="תעודה, שנה או אדם…"></div><div class="field"><label for="document-category">סוג מסמך</label><select id="document-category"><option value="all">כל המסמכים</option><option>תעודות</option><option>מצבות</option><option>עיתונות</option><option>פלונסק</option><option>מחקר</option></select></div></div><p id="document-count" class="result-count" aria-live="polite"></p><div id="documents" class="document-grid"></div></section>
+  <section id="timeline" class="view" hidden aria-labelledby="timeline-title"><div class="section-top"><h2 id="timeline-title">תאריכים, במקור שלהם</h2><p>התאריכים מוצגים לפי מסמכים או מידע משפחתי. תאריכי פלונסק נשמרים כפי שנכתבו, ללא המרה בין לוחות.</p></div><div id="timeline-content" class="timeline"></div></section>
+  <section id="research" class="view" hidden aria-labelledby="research-title"><div class="section-top"><h2 id="research-title">מה ידוע, ומה עדיין פתוח</h2><p>תמונת המצב המעודכנת קודמת לקריאות ישנות ביומן. הממצאים נשמרים עם מקורותיהם ועם גבולות הבדיקה.</p></div><div class="research-layout"><aside class="research-sidebar"><label for="report">דוח מחקר</label><select id="report"></select><label for="note-search">חיפוש בתוך הדוחות</label><input id="note-search" type="search" placeholder="מילה, שם או סימול…"><div id="note-results" aria-live="polite"></div><p class="research-warning">ביומן ההיסטורי מופיעות גם קריאות שתוקנו. למשל, שם אם לוסיה הוא יוכבד; שעת החופה במודעה היא 5 אחה״צ. תיקי האדם ותמונת המצב מציגים את המסקנות העדכניות.</p></aside><article id="report-content" class="report-content"></article></div></section>
+</main>
+<footer><span lang="en" dir="ltr">Avi Family Tree</span><p>ארכיון משפחתי מבוסס מקורות. פרטים משוערים נשארים מסומנים. <span id="updated"></span></p><a href="#research">עיון במחקר</a></footer>
+<dialog id="document-dialog" aria-labelledby="dialog-title"><div class="dialog-header"><div><h2 id="dialog-title"></h2><p id="dialog-note"></p></div><button id="close-dialog" aria-label="סגירת המסמך">סגירה</button></div><div id="document-viewer"></div><div class="dialog-actions"><a id="open-document" target="_blank" rel="noopener">פתיחה בחלון</a><a id="download-document" download>הורדת המקור</a></div></dialog>
+<noscript><p>לתצוגת העץ נדרש JavaScript. אפשר לקרוא את <a href="assets/documents/family-tree-current.md">תמונת המצב</a> ואת <a href="assets/documents/family-research.md">יומן המחקר</a> גם כקבצים.</p></noscript>
+</body></html>
