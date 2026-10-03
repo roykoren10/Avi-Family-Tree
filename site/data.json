@@ -1,0 +1,4059 @@
+{
+  "updated": "3 באוקטובר 2026",
+  "people": [
+    {
+      "id": "avraham",
+      "name": "אברהם עמנואל ירקוני",
+      "branch": "family",
+      "summary": "נקודת המוצא של המחקר. תאריך הלידה ושמות ההורים נמסרו במידע המשפחתי.",
+      "dates": "29.11.1945",
+      "aliases": "Avraham Emanuel Yarkoni; Abraham Emmanuel Yarkony",
+      "facts": [
+        {
+          "text": "נולד ב־29 בנובמבר 1945 בעפולה, לפי המידע שמסר בן המשפחה.",
+          "confidence": "family",
+          "source": "מידע משפחתי"
+        },
+        {
+          "text": "בן צבי ירקוני ולוסיה מיליקובסקי, לפי המידע המשפחתי.",
+          "confidence": "family",
+          "source": "מידע משפחתי"
+        },
+        {
+          "text": "טרם נמצאה תעודת לידה או מסמך עצמאי המחבר אותו במפורש לזוג שבתעודת H63056.",
+          "confidence": "open",
+          "source": "תמונת המצב העדכנית"
+        }
+      ],
+      "documents": [
+        "tzvi-lucia-marriage-1945-full.jpg",
+        "davar-wedding-ad-1945.png"
+      ],
+      "sources": [],
+      "status": "family",
+      "pos": [
+        585,
+        660
+      ]
+    },
+    {
+      "id": "tzvi",
+      "name": "צבי ירקוני",
+      "branch": "family",
+      "summary": "מורה בעפולה בתעודת נישואין 1945. הירש בנקו ופלונסק הם מידע משפחתי שטרם אומת בתעודת לידה.",
+      "dates": "בן 30 ב־1945",
+      "aliases": "הירש בנקו; Hirsch Banko; Hersz; Tzvi Yarkoni; Zvi",
+      "facts": [
+        {
+          "text": "נישא ללוסיה (מלכה) מיליקובסקי בעפולה ב־24.1.1945.",
+          "confidence": "documented",
+          "source": "H63056"
+        },
+        {
+          "text": "בן 30, מורה ותושב עפולה. הוריו אברהם יעקב וחיה מלכה. מגורי ההורים: פולניה.",
+          "confidence": "documented",
+          "source": "H63056"
+        },
+        {
+          "text": "השם המקורי הירש בנקו ומקום הלידה פלונסק נמסרו במידע המשפחתי; אינם מופיעים בתעודה.",
+          "confidence": "family",
+          "source": "מידע משפחתי"
+        },
+        {
+          "text": "גיל התעודה נותן טווח חיפוש משוער 1914-1915, אם הגיל מדויק.",
+          "confidence": "calculated",
+          "source": "H63056"
+        },
+        {
+          "text": "מודעת החופה פורסמה ב־19.1.1945 ומציינת 23.1.1945, בשעה 5 אחה״צ, בבית צבי מנחמי. הפער לתאריך התעודה לא הוסבר.",
+          "confidence": "documented",
+          "source": "דבר, 19.1.1945"
+        },
+        {
+          "text": "האזכורים של בעל בית חרושת למשקאות בעפולה בשנים 1950, 1951, 1965 ו־1972 אינם מזוהים בוודאות עם המורה.",
+          "confidence": "candidate",
+          "source": "עיתונות ו־OCR"
+        },
+        {
+          "text": "19,043 שורות קובץ שינויי השמות נבדקו, ללא קישור בנקו-הירש-ירקוני. זו שלילה בתוך הקובץ בלבד.",
+          "confidence": "open",
+          "source": "דוח שינויי השמות"
+        }
+      ],
+      "documents": [
+        "tzvi-lucia-marriage-1945-full.jpg",
+        "tzvi-lucia-marriage-1945.png",
+        "davar-wedding-ad-1945.png",
+        "davar-1945-01-19.pdf"
+      ],
+      "sources": [
+        {
+          "label": "תעודת H63056 ב־MyHeritage",
+          "url": "https://www.myheritage.co.il/research/collection-20868/israel-marriages-divorces?itemId=206-&action=showRecord"
+        },
+        {
+          "label": "תיק 17903/6, עמוד 7 מתוך 254",
+          "url": "https://journaliststudio.google.com/pinpoint/document-view?collection=e6afa9186a6e7ce1&p=1&docid=88b890478d7bcb31_e6afa9186a6e7ce1&dapvm=2"
+        },
+        {
+          "label": "דבר, 19.1.1945, עמוד 3",
+          "url": "https://www.nli.org.il/en/newspapers/dav/1945/01/19/01/article/37.1"
+        },
+        {
+          "label": "אינדקס IGRA, חיפוש AID",
+          "url": "https://genealogy.org.il/AID/"
+        }
+      ],
+      "status": "documented",
+      "pos": [
+        840,
+        460
+      ]
+    },
+    {
+      "id": "lucia",
+      "name": "לוסיה מיליקובסקי",
+      "branch": "family",
+      "summary": "לוסיה (מלכה), בת משה ויוכבד. פקידה בעפולה בתעודת 1945.",
+      "dates": "בת 25 ב־1945",
+      "aliases": "מלכה ירקוני; Lusia; Lucia; Milikovsky; Milikowski",
+      "facts": [
+        {
+          "text": "נישאה לצבי ירקוני בעפולה ב־24.1.1945; בת 25, פקידה, תושבת עפולה.",
+          "confidence": "documented",
+          "source": "H63056"
+        },
+        {
+          "text": "הורים: משה ויוכבד מיליקובסקי. שם האם אומת בעותק המלא; הקריאה הישנה ריבה תוקנה.",
+          "confidence": "documented",
+          "source": "H63056"
+        },
+        {
+          "text": "עפולה רשומה בעמודת מגורי ההורים המשותפת. אין בכך הוכחה שמשה היה בחיים או גר בעיר ב־1945.",
+          "confidence": "documented",
+          "source": "H63056"
+        },
+        {
+          "text": "לידה ברוסיה הלבנה סביב 1917 היא הערכת המשפחה. גיל 25 ב־1945 נותן טווח חיפוש אחר, 1919-1920. אין תאריך לידה מוכח.",
+          "confidence": "family",
+          "source": "מידע משפחתי ו־H63056"
+        },
+        {
+          "text": "שושנה, צפורה ואהובה הן אחיותיה לפי המידע המשפחתי. התאמת שמות ההורים מחזקת את הקשר; אין עדיין מסמך אחיות מפורש.",
+          "confidence": "family",
+          "source": "מידע משפחתי והצלבת מקורות"
+        },
+        {
+          "text": "ליוסה בת משה בעין חרוד 1937 היא מועמדת בלבד. מקור האינדקס: פנקס הבוגרים של כנסת ישראל תרצ״ז, הארכיון הציוני המרכזי. 203 אינו מספר עמוד.",
+          "confidence": "candidate",
+          "source": "IGRA-1937-VotersList-203"
+        },
+        {
+          "text": "קוסוב פולסקי הוא מקום מגורי האם בתעודת ליבא, ואינו מקום לידה מוכח של לוסיה.",
+          "confidence": "open",
+          "source": "H7942"
+        }
+      ],
+      "documents": [
+        "tzvi-lucia-marriage-1945-full.jpg",
+        "davar-wedding-ad-1945.png",
+        "davar-1945-01-19.pdf"
+      ],
+      "sources": [
+        {
+          "label": "תעודת H63056 ב־MyHeritage",
+          "url": "https://www.myheritage.co.il/research/collection-20868/israel-marriages-divorces?itemId=206-&action=showRecord"
+        },
+        {
+          "label": "תיק 17903/6, עמוד 7 מתוך 254",
+          "url": "https://journaliststudio.google.com/pinpoint/document-view?collection=e6afa9186a6e7ce1&p=1&docid=88b890478d7bcb31_e6afa9186a6e7ce1&dapvm=2"
+        },
+        {
+          "label": "דבר, 19.1.1945, עמוד 3",
+          "url": "https://www.nli.org.il/en/newspapers/dav/1945/01/19/01/article/37.1"
+        },
+        {
+          "label": "אינדקס IGRA, חיפוש AID",
+          "url": "https://genealogy.org.il/AID/"
+        },
+        {
+          "label": "נספח יוצאי קוסוב פולסקי, סוף 1945",
+          "url": "https://www.jewishgen.org/yizkor/Kosava/kos115.html"
+        }
+      ],
+      "status": "documented",
+      "pos": [
+        520,
+        460
+      ]
+    },
+    {
+      "id": "avraham-yaakov",
+      "name": "אברהם יעקב ירקוני",
+      "branch": "family",
+      "summary": "אביו של צבי בתעודת H63056. הזוג הדומה מפלונסק נשאר ענף מועמד נפרד.",
+      "dates": "מופיע ב־1945",
+      "aliases": "Avraham Yaakov; Abraham Jacob",
+      "facts": [
+        {
+          "text": "אביו של צבי ירקוני; אשתו חיה מלכה. מגורי ההורים: פולניה.",
+          "confidence": "documented",
+          "source": "H63056"
+        },
+        {
+          "text": "מורה רשום בשדה מקצוע ההורים המשותף. התעודה אינה מפרידה מקצוע לאב ולאם.",
+          "confidence": "documented",
+          "source": "H63056"
+        },
+        {
+          "text": "אברהם יעקב בנקה, אב הילדים מ־1910, עשוי להתאים בשמו אך זהותו עם אדם זה לא הוכחה.",
+          "confidence": "candidate",
+          "source": "סריקות פלונסק 1910"
+        }
+      ],
+      "documents": [
+        "tzvi-lucia-marriage-1945-full.jpg"
+      ],
+      "sources": [
+        {
+          "label": "תעודת H63056 ב־MyHeritage",
+          "url": "https://www.myheritage.co.il/research/collection-20868/israel-marriages-divorces?itemId=206-&action=showRecord"
+        },
+        {
+          "label": "תיק 17903/6, עמוד 7 מתוך 254",
+          "url": "https://journaliststudio.google.com/pinpoint/document-view?collection=e6afa9186a6e7ce1&p=1&docid=88b890478d7bcb31_e6afa9186a6e7ce1&dapvm=2"
+        }
+      ],
+      "status": "documented",
+      "pos": [
+        1050,
+        250
+      ]
+    },
+    {
+      "id": "chaya-malka",
+      "name": "חיה מלכה ירקוני",
+      "branch": "family",
+      "summary": "אמו של צבי. שם נעוריה אינו מופיע בתעודת הנישואין.",
+      "dates": "מופיעה ב־1945",
+      "aliases": "Chaya Malka",
+      "facts": [
+        {
+          "text": "אמו של צבי ירקוני; בעלה אברהם יעקב. מגורי ההורים: פולניה.",
+          "confidence": "documented",
+          "source": "H63056"
+        },
+        {
+          "text": "אין בתעודה שם נעורים, גיל, עיר או שנת לידה. השם Lew/Lev שייך למועמדת מפלונסק, ואינו מוכח כאן.",
+          "confidence": "open",
+          "source": "H63056"
+        }
+      ],
+      "documents": [
+        "tzvi-lucia-marriage-1945-full.jpg"
+      ],
+      "sources": [
+        {
+          "label": "תעודת H63056 ב־MyHeritage",
+          "url": "https://www.myheritage.co.il/research/collection-20868/israel-marriages-divorces?itemId=206-&action=showRecord"
+        },
+        {
+          "label": "תיק 17903/6, עמוד 7 מתוך 254",
+          "url": "https://journaliststudio.google.com/pinpoint/document-view?collection=e6afa9186a6e7ce1&p=1&docid=88b890478d7bcb31_e6afa9186a6e7ce1&dapvm=2"
+        }
+      ],
+      "status": "documented",
+      "pos": [
+        800,
+        250
+      ]
+    },
+    {
+      "id": "moshe",
+      "name": "משה מיליקובסקי",
+      "branch": "family",
+      "summary": "אביהן של לוסיה, שושנה, צפורה וליבא בתעודות ובמצבות שנמצאו.",
+      "dates": "נפטר לפני 25.10.1933 לפי H7942",
+      "aliases": "Moshe; Mowsza; Milikovsky; Milikowski",
+      "facts": [
+        {
+          "text": "אב לוסיה בתעודת 1945, אב שושנה בתעודת 1940 ובמצבה, אב צפורה במצבה ואב ליבא בתעודת 1933.",
+          "confidence": "documented",
+          "source": "H63056, H29372, H7942 והמצבות"
+        },
+        {
+          "text": "תעודת ליבא מ־25.10.1933 מציינת האב נפטר. אם מדובר באותו אב לוסיה, פטירתו קדמה למועד זה.",
+          "confidence": "documented",
+          "source": "H7942"
+        },
+        {
+          "text": "שנת לידה סביב 1887 מופיעה בעץ Geni בלבד ולא אומתה. מקום ותאריך פטירה אינם ידועים.",
+          "confidence": "secondary",
+          "source": "Geni"
+        },
+        {
+          "text": "Movsha Leyb בן Abel בברסט 1906 אינו מזוהה עם אדם זה; הכלה באינדקס היא Fruma Zelkin.",
+          "confidence": "candidate",
+          "source": "JewishGen"
+        }
+      ],
+      "documents": [
+        "tzvi-lucia-marriage-1945-full.jpg",
+        "shalom-shoshana-marriage-1940.jpg",
+        "liba-ahuva-menachemi-marriage-1933.jpg",
+        "zipporah-menachemi-grave-full.jpg",
+        "shoshana-shalom-marmor-grave.jpg"
+      ],
+      "sources": [
+        {
+          "label": "תעודת H63056 ב־MyHeritage",
+          "url": "https://www.myheritage.co.il/research/collection-20868/israel-marriages-divorces?itemId=206-&action=showRecord"
+        },
+        {
+          "label": "תעודת H29372 ב־MyHeritage",
+          "url": "https://www.myheritage.co.il/research/collection-20868/israel-marriages-divorces?itemId=12364-&action=showRecord"
+        },
+        {
+          "label": "תעודת H7942 ב־MyHeritage",
+          "url": "https://www.myheritage.co.il/research/collection-20868/israel-marriages-divorces?itemId=46206-S&action=showRecord"
+        },
+        {
+          "label": "עץ משתמשים: משה מיליקובסקי",
+          "url": "https://www.geni.com/people/Moshe-Milikovsky/6000000139682376897"
+        }
+      ],
+      "status": "documented",
+      "pos": [
+        490,
+        250
+      ]
+    },
+    {
+      "id": "yocheved",
+      "name": "יוכבד מיליקובסקי",
+      "branch": "family",
+      "summary": "שם האם אומת בתעודת לוסיה, בתעודות אחיותיה ובמצבות. טוכמן הוא שם נעורים מעץ משתמשים.",
+      "dates": "מגורי קוסוב פולסקי ב־1933",
+      "aliases": "Yocheved; Tuchman; Jochke; Yachka (מועמד לכינוי בלבד)",
+      "facts": [
+        {
+          "text": "אם לוסיה, שושנה וליבא בתעודות; אם צפורה ושושנה במצבות.",
+          "confidence": "documented",
+          "source": "H63056, H29372, H7942 והמצבות"
+        },
+        {
+          "text": "בתעודת ליבא: האם חנוונית, מגוריה קוסוב פולסקי, האב נפטר.",
+          "confidence": "documented",
+          "source": "H7942"
+        },
+        {
+          "text": "מגורי הורי לוסיה בעפולה רשומים בשדה משותף ב־1945. אין להסיק שכל המשפחה עלתה יחד.",
+          "confidence": "documented",
+          "source": "H63056"
+        },
+        {
+          "text": "Geni מציין Tuchman, לידה משוערת 1880, אב זבולון ואחים מאיר ולאה. אין תעודה המאמתת שם נעורים או קשרי טוכמן.",
+          "confidence": "secondary",
+          "source": "Geni"
+        },
+        {
+          "text": "יוכבד בת זבולון מופיעה באינדקס בוחרי עפולה 1949; יאכקע שבספר קוסוב עשויה להיות כינוי, אך אין זיהוי מוכח.",
+          "confidence": "candidate",
+          "source": "IGRA ונספח קוסוב"
+        }
+      ],
+      "documents": [
+        "tzvi-lucia-marriage-1945-full.jpg",
+        "shalom-shoshana-marriage-1940.jpg",
+        "liba-ahuva-menachemi-marriage-1933.jpg",
+        "zipporah-menachemi-grave-full.jpg",
+        "shoshana-shalom-marmor-grave.jpg"
+      ],
+      "sources": [
+        {
+          "label": "תעודת H63056 ב־MyHeritage",
+          "url": "https://www.myheritage.co.il/research/collection-20868/israel-marriages-divorces?itemId=206-&action=showRecord"
+        },
+        {
+          "label": "תעודת H29372 ב־MyHeritage",
+          "url": "https://www.myheritage.co.il/research/collection-20868/israel-marriages-divorces?itemId=12364-&action=showRecord"
+        },
+        {
+          "label": "תעודת H7942 ב־MyHeritage",
+          "url": "https://www.myheritage.co.il/research/collection-20868/israel-marriages-divorces?itemId=46206-S&action=showRecord"
+        },
+        {
+          "label": "עץ משתמשים: יוכבד מיליקובסקי",
+          "url": "https://www.geni.com/people/Yocheved-Milikovsky/6000000139682376902"
+        },
+        {
+          "label": "אינדקס IGRA, חיפוש AID",
+          "url": "https://genealogy.org.il/AID/"
+        },
+        {
+          "label": "נספח יוצאי קוסוב פולסקי, סוף 1945",
+          "url": "https://www.jewishgen.org/yizkor/Kosava/kos115.html"
+        }
+      ],
+      "status": "documented",
+      "pos": [
+        220,
+        250
+      ],
+      "views": {
+        "tuchman": [
+          350,
+          300
+        ]
+      }
+    },
+    {
+      "id": "shoshana",
+      "name": "שושנה מרמור",
+      "branch": "family",
+      "summary": "רוזה (שושנה) מילוקובסקי, בת משה ויוכבד; נישאה לשלום מרמר.",
+      "dates": "נפטרה 4.12.1998",
+      "aliases": "רוזה; Rosa; Szoszana; Milokovsky; Marmor; Marmer",
+      "facts": [
+        {
+          "text": "תעודת H29372: נישואין לשלום מרמר, עפולה 28.3.1940; בת 32, סוחרת ותושבת עפולה, בת משה ויוכבד.",
+          "confidence": "documented",
+          "source": "H29372"
+        },
+        {
+          "text": "28.2.1940 באינדקס MyHeritage הוא תאריך שגוי ביחס לשתי שורות הסריקה.",
+          "confidence": "documented",
+          "source": "H29372"
+        },
+        {
+          "text": "המצבה מאמתת בת יוכבד ומשה ופטירה בט״ו כסלו תשנ״ט, 4.12.1998.",
+          "confidence": "documented",
+          "source": "תצלום מצבה"
+        },
+        {
+          "text": "שנת לידה 1912 ופולין מופיעות ב־Geni בלבד; גיל 32 ב־1940 סותר את השנה. שנת הלידה נשארת פתוחה.",
+          "confidence": "secondary",
+          "source": "Geni ו־H29372"
+        },
+        {
+          "text": "קשר אחות ללוסיה הוא מידע משפחתי הנתמך בשמות ההורים, אך אינו כתוב בתעודה.",
+          "confidence": "family",
+          "source": "מידע משפחתי"
+        },
+        {
+          "text": "פניות נהלל 1925-1927, סימול 15602, ופניות 1926, סימול 3820, מזכירות שושנה מיליקובסקי ללא פרטי משפחה. זו מועמדות ולא הוכחת לימודים.",
+          "confidence": "candidate",
+          "source": "קטלוג NLI"
+        }
+      ],
+      "documents": [
+        "shalom-shoshana-marriage-1940.jpg",
+        "shoshana-shalom-marmor-grave.jpg",
+        "shalom-marmor-grave.jpg",
+        "marmor-grave-inscription.jpg"
+      ],
+      "sources": [
+        {
+          "label": "תעודת H29372 ב־MyHeritage",
+          "url": "https://www.myheritage.co.il/research/collection-20868/israel-marriages-divorces?itemId=12364-&action=showRecord"
+        },
+        {
+          "label": "מצבת שושנה, BillionGraves",
+          "url": "https://billiongraves.com/grave/שושנה-מרמור/18965651"
+        },
+        {
+          "label": "נספח יוצאי קוסוב פולסקי, סוף 1945",
+          "url": "https://www.jewishgen.org/yizkor/Kosava/kos115.html"
+        },
+        {
+          "label": "Geni: שושנה",
+          "url": "https://www.geni.com/people/Shoshana-Marmor/6000000196360542878"
+        },
+        {
+          "label": "קטלוג פניות נהלל",
+          "url": "https://www.nli.org.il/he/archives/NNL_ARCHIVE_AL997012608813105171/NLI"
+        }
+      ],
+      "status": "documented",
+      "pos": [
+        220,
+        460
+      ]
+    },
+    {
+      "id": "zipporah",
+      "name": "צפורה מנחמי",
+      "branch": "family",
+      "summary": "בת יוכבד ומשה מיליקובסקי לפי מצבתה. שם בן הזוג אינו ידוע.",
+      "dates": "נפטרה 26.4.1984",
+      "aliases": "ציפורה; Cipora; Zepora; Zipporah",
+      "facts": [
+        {
+          "text": "המצבה: צפורה מנחמי, בת יוכבד ומשה מיליקובסקי.",
+          "confidence": "documented",
+          "source": "תצלום המצבה"
+        },
+        {
+          "text": "כ״ה בניסן תשמ״ד, 26.4.1984, אומת בצילום המלא.",
+          "confidence": "documented",
+          "source": "תצלום המצבה המלא"
+        },
+        {
+          "text": "אחות לוסיה לפי המשפחה; שמות ההורים תואמים ומחזקים את הקשר.",
+          "confidence": "family",
+          "source": "מידע משפחתי והצלבת מקורות"
+        },
+        {
+          "text": "אין במצבה שם בעל, תאריך לידה או מקום לידה. שם המשפחה מנחמי אינו מוכיח שנישאה לצבי הירש מנחמי, בעל ליבא.",
+          "confidence": "open",
+          "source": "תצלום המצבה"
+        },
+        {
+          "text": "אינדקס בוחרים 1949: צפורה מיליקובסקי בת משה, עפולה. חיפושי מודעות שנבדקו לא הוסיפו בן זוג מזוהה.",
+          "confidence": "candidate",
+          "source": "IGRA ודוח מודעות"
+        }
+      ],
+      "documents": [
+        "zipporah-menachemi-grave.jpg",
+        "zipporah-menachemi-grave-full.jpg"
+      ],
+      "sources": [
+        {
+          "label": "מצבת צפורה, BillionGraves",
+          "url": "https://billiongraves.com/grave/צפורה-מנחמי/19436658"
+        },
+        {
+          "label": "אינדקס IGRA, חיפוש AID",
+          "url": "https://genealogy.org.il/AID/"
+        },
+        {
+          "label": "נספח יוצאי קוסוב פולסקי, סוף 1945",
+          "url": "https://www.jewishgen.org/yizkor/Kosava/kos115.html"
+        },
+        {
+          "label": "Geni: צפורה",
+          "url": "https://www.geni.com/people/צפורה-מנחמי/6000000139682376911"
+        }
+      ],
+      "status": "documented",
+      "pos": [
+        -70,
+        460
+      ]
+    },
+    {
+      "id": "ahuva",
+      "name": "ליבא (אהובה) מיליקובסקי",
+      "branch": "family",
+      "summary": "חובשת מעפולה, בת משה ויוכבד, בתעודת נישואיה לצבי הירש מנחמי.",
+      "dates": "בת 28 ב־1933",
+      "aliases": "ליבה; Liba; Lieba; Ahuva",
+      "facts": [
+        {
+          "text": "נישאה לצבי הירש מנחמי ברמת גן ב־25.10.1933. בת 28, חובשת ותושבת עפולה.",
+          "confidence": "documented",
+          "source": "H7942"
+        },
+        {
+          "text": "הורים: משה ויוכבד. האב נפטר, האם חנוונית, מגורי האם קוסוב פולסקי.",
+          "confidence": "documented",
+          "source": "H7942"
+        },
+        {
+          "text": "התאמה לאהובה אחות לוסיה נתמכת במידע המשפחתי ובשמות ההורים; אין מסמך אחיות מפורש.",
+          "confidence": "family",
+          "source": "מידע משפחתי"
+        },
+        {
+          "text": "נספח קוסוב מצמיד ליבה מיליקובסקי לצבי מנחמי ב־Europa Bakery, Afula. אין הוכחת בעלות בעסק.",
+          "confidence": "candidate",
+          "source": "נספח קוסוב 1945"
+        },
+        {
+          "text": "אהובה בת משה בתל אביב, בורוכוב 2, מופיעה באינדקסים 1944 ו־1947 בגיל 30 בשניהם. זהותה עם ליבא בת 28 בשנת 1933 אינה מוכחת.",
+          "confidence": "candidate",
+          "source": "IGRA"
+        },
+        {
+          "text": "משה מנחמי יליד עפולה 1936 מתואר בוויקיפדיה כבנה, ללא אסמכתה לפרט ההורים. הקשר מועמד בלבד.",
+          "confidence": "secondary",
+          "source": "ויקיפדיה"
+        }
+      ],
+      "documents": [
+        "liba-ahuva-menachemi-marriage-1933.jpg"
+      ],
+      "sources": [
+        {
+          "label": "תעודת H7942 ב־MyHeritage",
+          "url": "https://www.myheritage.co.il/research/collection-20868/israel-marriages-divorces?itemId=46206-S&action=showRecord"
+        },
+        {
+          "label": "נספח יוצאי קוסוב פולסקי, סוף 1945",
+          "url": "https://www.jewishgen.org/yizkor/Kosava/kos115.html"
+        },
+        {
+          "label": "אינדקס IGRA, חיפוש AID",
+          "url": "https://genealogy.org.il/AID/"
+        }
+      ],
+      "status": "documented",
+      "pos": [
+        -370,
+        460
+      ]
+    },
+    {
+      "id": "tzvi-menachemi",
+      "name": "צבי הירש מנחמי",
+      "branch": "family",
+      "summary": "פקיד במועצה המקומית בעפולה; בעל ליבא (אהובה) בתעודת 1933.",
+      "dates": "בן 28 ב־1933",
+      "aliases": "Tzvi Hirsch Menachemi",
+      "facts": [
+        {
+          "text": "נישא לליבא (אהובה) ברמת גן ב־25.10.1933, בן 28, פקיד במועצה המקומית, תושב עפולה.",
+          "confidence": "documented",
+          "source": "H7942"
+        },
+        {
+          "text": "הוריו בנימין וחיה מנחמוביץ, והעמודה מציינת נפטרו.",
+          "confidence": "documented",
+          "source": "H7942"
+        },
+        {
+          "text": "צבי מנחמי המארח במודעת החופה 1945 אינו מזוהה אוטומטית עם אדם זה.",
+          "confidence": "candidate",
+          "source": "דבר, 19.1.1945"
+        },
+        {
+          "text": "אין הוכחה שהוא צבי מנחמי (הנריק בלדר), העד ביד ושם, או המציל ברמות השבים 1947.",
+          "confidence": "open",
+          "source": "מקורות נפרדים"
+        }
+      ],
+      "documents": [
+        "liba-ahuva-menachemi-marriage-1933.jpg",
+        "davar-wedding-ad-1945.png",
+        "davar-1945-01-19.pdf"
+      ],
+      "sources": [
+        {
+          "label": "תעודת H7942 ב־MyHeritage",
+          "url": "https://www.myheritage.co.il/research/collection-20868/israel-marriages-divorces?itemId=46206-S&action=showRecord"
+        },
+        {
+          "label": "נספח יוצאי קוסוב פולסקי, סוף 1945",
+          "url": "https://www.jewishgen.org/yizkor/Kosava/kos115.html"
+        },
+        {
+          "label": "דבר, 19.1.1945, עמוד 3",
+          "url": "https://www.nli.org.il/en/newspapers/dav/1945/01/19/01/article/37.1"
+        }
+      ],
+      "status": "documented",
+      "pos": [
+        -650,
+        460
+      ]
+    },
+    {
+      "id": "binyamin",
+      "name": "בנימין מנחמוביץ",
+      "branch": "family",
+      "summary": "אב צבי הירש מנחמי בתעודת 1933.",
+      "dates": "נפטר לפני 1933",
+      "aliases": "Binyamin Menachmovitz",
+      "facts": [
+        {
+          "text": "אב החתן צבי הירש מנחמי; הורי החתן מסומנים נפטרו.",
+          "confidence": "documented",
+          "source": "H7942"
+        }
+      ],
+      "documents": [
+        "liba-ahuva-menachemi-marriage-1933.jpg"
+      ],
+      "sources": [
+        {
+          "label": "תעודת H7942 ב־MyHeritage",
+          "url": "https://www.myheritage.co.il/research/collection-20868/israel-marriages-divorces?itemId=46206-S&action=showRecord"
+        }
+      ],
+      "status": "documented",
+      "pos": [
+        -650,
+        250
+      ]
+    },
+    {
+      "id": "chaya-menachmovitz",
+      "name": "חיה מנחמוביץ",
+      "branch": "family",
+      "summary": "אם צבי הירש מנחמי בתעודת 1933.",
+      "dates": "נפטרה לפני 1933",
+      "aliases": "Chaya Menachmovitz",
+      "facts": [
+        {
+          "text": "אם החתן צבי הירש מנחמי; הורי החתן מסומנים נפטרו.",
+          "confidence": "documented",
+          "source": "H7942"
+        }
+      ],
+      "documents": [
+        "liba-ahuva-menachemi-marriage-1933.jpg"
+      ],
+      "sources": [
+        {
+          "label": "תעודת H7942 ב־MyHeritage",
+          "url": "https://www.myheritage.co.il/research/collection-20868/israel-marriages-divorces?itemId=46206-S&action=showRecord"
+        }
+      ],
+      "status": "documented",
+      "pos": [
+        -370,
+        250
+      ]
+    },
+    {
+      "id": "shalom",
+      "name": "שלום מרמור",
+      "branch": "family",
+      "summary": "חקלאי מכפר תבור; בעל רוזה (שושנה) בתעודת 1940.",
+      "dates": "נפטר 16.10.1982",
+      "aliases": "שולם לפי המשפחה; מרמר; Shalom Marmor; Marmer",
+      "facts": [
+        {
+          "text": "נישא לרוזה (שושנה) בעפולה ב־28.3.1940; בן 28, חקלאי, תושב כפר תבור.",
+          "confidence": "documented",
+          "source": "H29372"
+        },
+        {
+          "text": "בתעודה אביו נקרא אריה, ובמצבה יהודה ליב. אין ראיה המוכיחה שאלו שמות חלופיים של אותו אדם.",
+          "confidence": "open",
+          "source": "H29372 ותצלום המצבה"
+        },
+        {
+          "text": "המצבה: בן יהודה ליב וחיה שרה, יליד כפר תבור, נפטר בכ״ט תשרי תשמ״ג, 16.10.1982.",
+          "confidence": "documented",
+          "source": "תצלום המצבה"
+        },
+        {
+          "text": "שנת הלידה 1912 ומידע על אחיו מופיעים בעץ ובמקורות ביוגרפיים; אינם תעודות לידה שנבדקו.",
+          "confidence": "secondary",
+          "source": "Geni ומקורות מקומיים"
+        }
+      ],
+      "documents": [
+        "shalom-shoshana-marriage-1940.jpg",
+        "shalom-marmor-grave.jpg",
+        "marmor-grave-inscription.jpg"
+      ],
+      "sources": [
+        {
+          "label": "תעודת H29372 ב־MyHeritage",
+          "url": "https://www.myheritage.co.il/research/collection-20868/israel-marriages-divorces?itemId=12364-&action=showRecord"
+        },
+        {
+          "label": "מצבת שלום, BillionGraves",
+          "url": "https://billiongraves.com/grave/שלום-מרמור/18965652"
+        },
+        {
+          "label": "שורשי החקלאות בכפר תבור",
+          "url": "https://www.t-a.org.il/en/haklautkfartavor-1/שורשיה-של-החקלאות-"
+        }
+      ],
+      "status": "documented",
+      "pos": [
+        0,
+        660
+      ],
+      "views": {
+        "marmor": [
+          470,
+          340
+        ]
+      }
+    },
+    {
+      "id": "chaya-sara",
+      "name": "חיה שרה מרמור",
+      "branch": "family",
+      "summary": "אם שלום לפי תעודת 1940 ומצבתו. פרטי בית אביה מגיעים ממקורות משניים.",
+      "dates": "",
+      "aliases": "Chaya Sara; פוזנר / צלליכין במקורות משניים",
+      "facts": [
+        {
+          "text": "אם שלום: חיה שרה בתעודת הנישואין ובמצבה.",
+          "confidence": "documented",
+          "source": "H29372 ותצלום המצבה"
+        },
+        {
+          "text": "קטלוג NLI לתצלום 1901 מציין חיה שרה מרמור לבית צלליכים, שבאה ממטולה.",
+          "confidence": "secondary",
+          "source": "IL-TVOR-001-3163262"
+        },
+        {
+          "text": "מאמר ביוגרפי מציין לידה 1870 באיבניץ, בת דבורה ונפתלי קדיש מלמד (פוזנר), נישואין ליהודה לייב ב־1888. הילדים המתוארים: דבורה, אהרן, אליפלט, יעקב, יוכבד, רחל ושלום. הפרטים לא אומתו בתעודות.",
+          "confidence": "secondary",
+          "source": "מאמר הדר פרי"
+        },
+        {
+          "text": "יוכבד בת מרמור אינה מזוהה עם יוכבד מיליקובסקי.",
+          "confidence": "open",
+          "source": "הבחנת זהויות"
+        },
+        {
+          "text": "שם הנעורים אינו מוכרע: קטלוג התצלום מציין צלליכים / צלליכין, בעוד Geni והמאמר מציינים פוזנר. אלה דיווחי מקורות שונים, ולא שם נעורים מאומת אחד.",
+          "confidence": "open",
+          "source": "NLI, Geni ומאמר הדר פרי"
+        }
+      ],
+      "documents": [
+        "shalom-shoshana-marriage-1940.jpg",
+        "shalom-marmor-grave.jpg"
+      ],
+      "sources": [
+        {
+          "label": "תעודת H29372 ב־MyHeritage",
+          "url": "https://www.myheritage.co.il/research/collection-20868/israel-marriages-divorces?itemId=12364-&action=showRecord"
+        },
+        {
+          "label": "מצבת שלום, BillionGraves",
+          "url": "https://billiongraves.com/grave/שלום-מרמור/18965652"
+        },
+        {
+          "label": "תצלום 1901, קטלוג NLI",
+          "url": "https://www.nli.org.il/he/archives/NNL_ARCHIVE_AL997009692987205171/NLI"
+        },
+        {
+          "label": "מאמר ביוגרפי על חיה שרה",
+          "url": "https://hadarperry.wordpress.com/2019/08/02/חיה-שרה-מרמור-האישה-הגיבורה/"
+        }
+      ],
+      "status": "documented",
+      "pos": [
+        -70,
+        40
+      ],
+      "views": {
+        "marmor": [
+          20,
+          100
+        ]
+      }
+    },
+    {
+      "id": "arie",
+      "name": "אריה מרמר",
+      "branch": "marmor",
+      "summary": "שם אביו של שלום בתעודת הנישואין. נבדל מיהודה ליב שבמצבה.",
+      "dates": "",
+      "aliases": "Arie",
+      "facts": [
+        {
+          "text": "אב שלום נקרא אריה בתעודת H29372, בוודאות קריאה בינונית.",
+          "confidence": "documented",
+          "source": "H29372"
+        },
+        {
+          "text": "אין הוכחה שאריה הוא יהודה ליב, הנקוב במצבה. אין כאן מיזוג זהויות.",
+          "confidence": "open",
+          "source": "H29372 והמצבה"
+        }
+      ],
+      "documents": [
+        "shalom-shoshana-marriage-1940.jpg"
+      ],
+      "sources": [
+        {
+          "label": "תעודת H29372 ב־MyHeritage",
+          "url": "https://www.myheritage.co.il/research/collection-20868/israel-marriages-divorces?itemId=12364-&action=showRecord"
+        }
+      ],
+      "status": "documented",
+      "pos": [
+        620,
+        100
+      ]
+    },
+    {
+      "id": "yehuda-leib",
+      "name": "יהודה ליב מרמור",
+      "branch": "marmor",
+      "summary": "שם אביו של שלום במצבתו. אין זיהוי מוכח עם אריה.",
+      "dates": "",
+      "aliases": "Yehuda Leib",
+      "facts": [
+        {
+          "text": "אב שלום נקרא יהודה ליב במצבה המלאה.",
+          "confidence": "documented",
+          "source": "תצלום המצבה"
+        },
+        {
+          "text": "השם אריה בתעודת הנישואין נשמר כקריאה נפרדת עד ראיה מחברת.",
+          "confidence": "open",
+          "source": "H29372"
+        }
+      ],
+      "documents": [
+        "shalom-marmor-grave.jpg"
+      ],
+      "sources": [
+        {
+          "label": "מצבת שלום, BillionGraves",
+          "url": "https://billiongraves.com/grave/שלום-מרמור/18965652"
+        }
+      ],
+      "status": "documented",
+      "pos": [
+        320,
+        100
+      ]
+    },
+    {
+      "id": "zevulun",
+      "name": "זבולון טוכמן",
+      "branch": "tuchman",
+      "summary": "אב יוכבד, מאיר ולאה לפי עץ Geni.",
+      "dates": "",
+      "aliases": "Tuchman; Tukhman",
+      "facts": [
+        {
+          "text": "אב יוכבד, מאיר ולאה לפי עץ Geni. אין תעודה עצמאית, תאריכים או מקום מוצא שנבדקו.",
+          "confidence": "secondary",
+          "source": "Geni"
+        }
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "עץ משתמשים: יוכבד מיליקובסקי",
+          "url": "https://www.geni.com/people/Yocheved-Milikovsky/6000000139682376902"
+        }
+      ],
+      "status": "secondary",
+      "pos": [
+        350,
+        90
+      ]
+    },
+    {
+      "id": "meir",
+      "name": "מאיר טוכמן",
+      "branch": "tuchman",
+      "summary": "אח יוכבד לפי עץ Geni.",
+      "dates": "",
+      "aliases": "Tuchman; Tukhman",
+      "facts": [
+        {
+          "text": "אח יוכבד לפי עץ Geni. אין תעודה עצמאית, תאריכים או מקום מוצא שנבדקו.",
+          "confidence": "secondary",
+          "source": "Geni"
+        }
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "עץ משתמשים: יוכבד מיליקובסקי",
+          "url": "https://www.geni.com/people/Yocheved-Milikovsky/6000000139682376902"
+        }
+      ],
+      "status": "secondary",
+      "pos": [
+        650,
+        300
+      ]
+    },
+    {
+      "id": "leah",
+      "name": "לאה טוכמן",
+      "branch": "tuchman",
+      "summary": "אחות יוכבד לפי עץ Geni.",
+      "dates": "",
+      "aliases": "Tuchman; Tukhman",
+      "facts": [
+        {
+          "text": "אחות יוכבד לפי עץ Geni. אין תעודה עצמאית, תאריכים או מקום מוצא שנבדקו.",
+          "confidence": "secondary",
+          "source": "Geni"
+        }
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "עץ משתמשים: יוכבד מיליקובסקי",
+          "url": "https://www.geni.com/people/Yocheved-Milikovsky/6000000139682376902"
+        }
+      ],
+      "status": "secondary",
+      "pos": [
+        50,
+        300
+      ]
+    },
+    {
+      "id": "moshe-menachemi",
+      "name": "משה מנחמי",
+      "branch": "leads",
+      "summary": "מועמד לצאצא של ליבא (אהובה) וצבי, לפי ביוגרפיה ללא מקור לפרט ההורים.",
+      "dates": "1936 לפי ויקיפדיה",
+      "aliases": "Moshe Menachemi",
+      "facts": [
+        {
+          "text": "ויקיפדיה מציינת לידה בעפולה 1936 לאהובה מליקובסקי מנחמי ולצבי מנחמי. פרט ההורים חסר אסמכתה.",
+          "confidence": "secondary",
+          "source": "ויקיפדיה"
+        },
+        {
+          "text": "אתר מגידו תעופה מאשר את פעילותו ואת הקמת כנפי העמק ב־1975, אך אינו מאמת את הוריו.",
+          "confidence": "secondary",
+          "source": "אתר החברה"
+        }
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "ערך משה מנחמי",
+          "url": "https://he.wikipedia.org/wiki/משה_מנחמי"
+        },
+        {
+          "label": "מגידו תעופה",
+          "url": "https://www.megido-air.co.il/about"
+        }
+      ],
+      "status": "candidate",
+      "pos": null
+    },
+    {
+      "id": "abram-1910",
+      "name": "אברהם יעקב בנקה",
+      "branch": "plonsk1910",
+      "summary": "אב בר דוד וסורה מכלה. התאמת שם להורי צבי, ללא מסמך מחבר.",
+      "dates": "בן 30 ב־1910",
+      "aliases": "Abram Jakow; Байнка; Bajnka; Banka",
+      "facts": [
+        {
+          "text": "אב הילדים באקטים 60 ו־61, יהודי תושב פלונסק, בן 30.",
+          "confidence": "documented",
+          "source": "תעודות 1910"
+        },
+        {
+          "text": "תאריך הרישום: 20 ביוני 1910. התאריכים מדווחים ככתוב ללא הכרעת לוח או המרה.",
+          "confidence": "documented",
+          "source": "תעודות 1910"
+        },
+        {
+          "text": "אינו מזוהה בוודאות עם אברהם יעקב ירקוני אבי צבי, או עם Abram Jankel יליד 1875.",
+          "confidence": "candidate",
+          "source": "השוואת שמות וגילים"
+        }
+      ],
+      "documents": [
+        "plonsk-1910-birth-59-60.jpg",
+        "plonsk-1910-birth-61-62.jpg"
+      ],
+      "sources": [
+        {
+          "label": "פלונסק 1910, אקט 60",
+          "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=1913&sy=1910&kt=1&plik=059-060.jpg"
+        },
+        {
+          "label": "פלונסק 1910, אקט 61",
+          "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=1913&sy=1910&kt=1&plik=061-062.jpg"
+        }
+      ],
+      "status": "candidate",
+      "pos": [
+        570,
+        100
+      ]
+    },
+    {
+      "id": "chaja-lew",
+      "name": "חיה מלכה לבית לב",
+      "branch": "plonsk1910",
+      "summary": "אם הילדים בתעודות פלונסק 1910. Lew/Lev אומת בסריקה.",
+      "dates": "בת 29 ב־1910",
+      "aliases": "Chaja Małka LEW; Хая-Малка Левъ",
+      "facts": [
+        {
+          "text": "אם בר דוד וסורה מכלה, בת 29, לבית Lew/Lev; הקריאה אומתה גם באקט 60.",
+          "confidence": "documented",
+          "source": "תעודות 1910"
+        },
+        {
+          "text": "אין ראיה שהיא חיה מלכה אמו של צבי. אין מקצוע או כתובת רחוב שנקראו.",
+          "confidence": "candidate",
+          "source": "גבול זיהוי"
+        }
+      ],
+      "documents": [
+        "plonsk-1910-birth-59-60.jpg",
+        "plonsk-1910-birth-61-62.jpg"
+      ],
+      "sources": [
+        {
+          "label": "פלונסק 1910, אקט 60",
+          "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=1913&sy=1910&kt=1&plik=059-060.jpg"
+        },
+        {
+          "label": "פלונסק 1910, אקט 61",
+          "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=1913&sy=1910&kt=1&plik=061-062.jpg"
+        }
+      ],
+      "status": "candidate",
+      "pos": [
+        250,
+        100
+      ]
+    },
+    {
+      "id": "ber-dawid",
+      "name": "בר דוד בנקה",
+      "branch": "plonsk1910",
+      "summary": "ילד/ה של אברהם יעקב וחיה מלכה לבית Lew בתעודות 1910.",
+      "dates": "14.6.1910, ככתוב",
+      "aliases": "Ber Dawid / Sura Mechla",
+      "facts": [
+        {
+          "text": "לידה ב־14 ביוני 1910, בשעה 8 בבוקר; רישום 20 ביוני. ללא המרה לוחית.",
+          "confidence": "documented",
+          "source": "אקט 60 או 61"
+        },
+        {
+          "text": "אותם הורים ויום לידה תומכים בזיהוי כתאומים. המילה תאומים אינה נקראת במפורש בתעודות.",
+          "confidence": "calculated",
+          "source": "השוואת תעודות"
+        },
+        {
+          "text": "אין לצרף כאח או אחות מאומתים של צבי, ואין לזהות את בר דוד כצבי.",
+          "confidence": "candidate",
+          "source": "אין מסמך מחבר"
+        }
+      ],
+      "documents": [
+        "plonsk-1910-birth-59-60.jpg"
+      ],
+      "sources": [
+        {
+          "label": "פלונסק 1910, אקט 60",
+          "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=1913&sy=1910&kt=1&plik=059-060.jpg"
+        }
+      ],
+      "status": "candidate",
+      "pos": [
+        570,
+        330
+      ]
+    },
+    {
+      "id": "sura-child",
+      "name": "סורה מכלה בנקה",
+      "branch": "plonsk1910",
+      "summary": "ילד/ה של אברהם יעקב וחיה מלכה לבית Lew בתעודות 1910.",
+      "dates": "14.6.1910, ככתוב",
+      "aliases": "Ber Dawid / Sura Mechla",
+      "facts": [
+        {
+          "text": "לידה ב־14 ביוני 1910, בשעה 6 בבוקר; רישום 20 ביוני. ללא המרה לוחית.",
+          "confidence": "documented",
+          "source": "אקט 60 או 61"
+        },
+        {
+          "text": "אותם הורים ויום לידה תומכים בזיהוי כתאומים. המילה תאומים אינה נקראת במפורש בתעודות.",
+          "confidence": "calculated",
+          "source": "השוואת תעודות"
+        },
+        {
+          "text": "אין לצרף כאח או אחות מאומתים של צבי, ואין לזהות את בר דוד כצבי.",
+          "confidence": "candidate",
+          "source": "אין מסמך מחבר"
+        }
+      ],
+      "documents": [
+        "plonsk-1910-birth-61-62.jpg"
+      ],
+      "sources": [
+        {
+          "label": "פלונסק 1910, אקט 61",
+          "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=1913&sy=1910&kt=1&plik=061-062.jpg"
+        }
+      ],
+      "status": "candidate",
+      "pos": [
+        250,
+        330
+      ]
+    },
+    {
+      "id": "abram-1875",
+      "name": "אברם ינקל בנקה",
+      "branch": "plonsk1875",
+      "summary": "יליד 1875, בן בנדט וסורה מכלה. אדם נפרד מן האב המועמד של 1910.",
+      "dates": "4.5.1875, ככתוב",
+      "aliases": "Abram Jankel; Абрам Янкель",
+      "facts": [
+        {
+          "text": "לידה ב־4 במאי ורישום ב־11 במאי 1875. ההורים בנדט בנקה, חייט בן 35, וסורה מכלה בת 30.",
+          "confidence": "documented",
+          "source": "אקט 72"
+        },
+        {
+          "text": "שם נעורי האם נקרא Shainber/Shainberg בוודאות בינונית.",
+          "confidence": "candidate",
+          "source": "קריאת כתב היד"
+        },
+        {
+          "text": "אין ראיה שהוא האב בן 30 באקטי 1910, או אברהם יעקב אבי צבי. פער הגילים נשאר פתוח.",
+          "confidence": "candidate",
+          "source": "השוואה"
+        }
+      ],
+      "documents": [
+        "plonsk-1875-birth-71-72.jpg"
+      ],
+      "sources": [
+        {
+          "label": "פלונסק 1875, אקט 72",
+          "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=1913&sy=1875&kt=1&plik=071-072.jpg"
+        }
+      ],
+      "status": "candidate",
+      "pos": [
+        480,
+        330
+      ]
+    },
+    {
+      "id": "bendet",
+      "name": "בנדט בנקה",
+      "branch": "plonsk1875",
+      "summary": "אב אברם ינקל בתעודת 1875.",
+      "dates": "בן 35 ב־1875",
+      "aliases": "Bendet; Bendyt",
+      "facts": [
+        {
+          "text": "חייט בן 35, אב אברם ינקל, בתעודת לידה 72.",
+          "confidence": "documented",
+          "source": "אקט 72"
+        },
+        {
+          "text": "שמות Bendyt/Bendet באינדקסים אחרים הם וריאנטים אפשריים; אין לאחד אוטומטית.",
+          "confidence": "open",
+          "source": "JRI"
+        }
+      ],
+      "documents": [
+        "plonsk-1875-birth-71-72.jpg",
+        "plonsk-1869-birth-47-48.jpg"
+      ],
+      "sources": [
+        {
+          "label": "פלונסק 1875, אקט 72",
+          "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=1913&sy=1875&kt=1&plik=071-072.jpg"
+        }
+      ],
+      "status": "candidate",
+      "pos": [
+        640,
+        100
+      ]
+    },
+    {
+      "id": "sura-mother",
+      "name": "סורה מכלה",
+      "branch": "plonsk1875",
+      "summary": "אם אברם ינקל, בת 30 ב־1875. שם נעוריה עדיין אינו מוכרע.",
+      "dates": "בת 30 ב־1875",
+      "aliases": "Sura Mechla; Sura Mechli; Shainber / Shainberg / Szrajber",
+      "facts": [
+        {
+          "text": "אם אברם ינקל, בת 30, בתעודת 1875; שם נעוריה נקרא Shainber/Shainberg בוודאות בינונית.",
+          "confidence": "documented",
+          "source": "אקט 72"
+        },
+        {
+          "text": "באינדקס Dwojra 1869 מופיע Szrajber; הסריקה לא פתרה את הסתירה. אין למזג את האימהות כעובדה.",
+          "confidence": "open",
+          "source": "JRI ואקט 47"
+        }
+      ],
+      "documents": [
+        "plonsk-1875-birth-71-72.jpg",
+        "plonsk-1869-birth-47-48.jpg"
+      ],
+      "sources": [
+        {
+          "label": "פלונסק 1875, אקט 72",
+          "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=1913&sy=1875&kt=1&plik=071-072.jpg"
+        }
+      ],
+      "status": "candidate",
+      "pos": [
+        320,
+        100
+      ]
+    },
+    {
+      "id": "dwojra",
+      "name": "דבוירה בנקה",
+      "branch": "leads",
+      "summary": "רשומת לידה 1869 באינדקס JRI. פענוח המקור ושם נעורי האם אינם מוכרעים.",
+      "dates": "1869",
+      "aliases": "Dwojra",
+      "facts": [
+        {
+          "text": "אינדקס: אקט 47, אב Bendyt, אם Sura Mechla SZRAJBER.",
+          "confidence": "secondary",
+          "source": "JRI"
+        },
+        {
+          "text": "הסריקה זמינה; שם נעורי האם והגילים לא אומתו בביטחון, ואין פתרון לסתירה מול 1875.",
+          "confidence": "open",
+          "source": "אקט 47"
+        }
+      ],
+      "documents": [
+        "plonsk-1869-birth-47-48.jpg"
+      ],
+      "sources": [
+        {
+          "label": "אקט 47, פלונסק 1869",
+          "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=1913&sy=1869&kt=1&plik=047-048.jpg"
+        }
+      ],
+      "status": "candidate",
+      "pos": null
+    },
+    {
+      "id": "israel",
+      "name": "ישראל איסר מיליקובסקי",
+      "branch": "testimony",
+      "summary": "אב גיטל וגולדה לפי דפי העד.",
+      "dates": "",
+      "aliases": "Milikowski / Nowik",
+      "facts": [
+        {
+          "text": "אב גיטל וגולדה לפי דפי העד.",
+          "confidence": "secondary",
+          "source": "דפי עד ומטא־נתונים ביד ושם"
+        },
+        {
+          "text": "זהו ענף נפרד. אין עדיין מסמך המחבר אותו ללוסיה, משה או יוכבד. דפי עד אינם תעודות לידה אזרחיות.",
+          "confidence": "open",
+          "source": "גבול המחקר"
+        }
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "דף גיטל",
+          "url": "https://collections.yadvashem.org/en/names/536834"
+        },
+        {
+          "label": "דף גולדה",
+          "url": "https://collections.yadvashem.org/en/names/946014"
+        }
+      ],
+      "status": "secondary",
+      "pos": [
+        760,
+        80
+      ]
+    },
+    {
+      "id": "braine",
+      "name": "בריינה מיליקובסקי",
+      "branch": "testimony",
+      "summary": "אם גיטל וגולדה לפי דפי העד.",
+      "dates": "",
+      "aliases": "Milikowski / Nowik",
+      "facts": [
+        {
+          "text": "אם גיטל וגולדה לפי דפי העד.",
+          "confidence": "secondary",
+          "source": "דפי עד ומטא־נתונים ביד ושם"
+        },
+        {
+          "text": "זהו ענף נפרד. אין עדיין מסמך המחבר אותו ללוסיה, משה או יוכבד. דפי עד אינם תעודות לידה אזרחיות.",
+          "confidence": "open",
+          "source": "גבול המחקר"
+        }
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "דף גיטל",
+          "url": "https://collections.yadvashem.org/en/names/536834"
+        },
+        {
+          "label": "דף גולדה",
+          "url": "https://collections.yadvashem.org/en/names/946014"
+        }
+      ],
+      "status": "secondary",
+      "pos": [
+        440,
+        80
+      ]
+    },
+    {
+      "id": "hertzel",
+      "name": "הרצל מיליקובסקי",
+      "branch": "testimony",
+      "summary": "מוסר עדות ואח גיטל וגולדה לפי דפי העד.",
+      "dates": "",
+      "aliases": "Milikowski / Nowik",
+      "facts": [
+        {
+          "text": "מוסר עדות ואח גיטל וגולדה לפי דפי העד.",
+          "confidence": "secondary",
+          "source": "דפי עד ומטא־נתונים ביד ושם"
+        },
+        {
+          "text": "זהו ענף נפרד. אין עדיין מסמך המחבר אותו ללוסיה, משה או יוכבד. דפי עד אינם תעודות לידה אזרחיות.",
+          "confidence": "open",
+          "source": "גבול המחקר"
+        }
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "דף גיטל",
+          "url": "https://collections.yadvashem.org/en/names/536834"
+        },
+        {
+          "label": "דף גולדה",
+          "url": "https://collections.yadvashem.org/en/names/946014"
+        }
+      ],
+      "status": "secondary",
+      "pos": [
+        130,
+        300
+      ]
+    },
+    {
+      "id": "gitel",
+      "name": "גיטל נוביק",
+      "branch": "testimony",
+      "summary": "בת ישראל איסר ובריינה, אשת מרדכי מקס; נרצחה בשואה.",
+      "dates": "1900 לפי דף העד",
+      "aliases": "Milikowski / Nowik",
+      "facts": [
+        {
+          "text": "בת ישראל איסר ובריינה, אשת מרדכי מקס; נרצחה בשואה.",
+          "confidence": "secondary",
+          "source": "דפי עד ומטא־נתונים ביד ושם"
+        },
+        {
+          "text": "זהו ענף נפרד. אין עדיין מסמך המחבר אותו ללוסיה, משה או יוכבד. דפי עד אינם תעודות לידה אזרחיות.",
+          "confidence": "open",
+          "source": "גבול המחקר"
+        }
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "דף עד ביד ושם",
+          "url": "https://collections.yadvashem.org/en/names/536834"
+        }
+      ],
+      "status": "secondary",
+      "pos": [
+        450,
+        300
+      ]
+    },
+    {
+      "id": "golda",
+      "name": "גולדה מיליקובסקי",
+      "branch": "testimony",
+      "summary": "בת ישראל איסר ובריינה; נרצחה בשואה.",
+      "dates": "1905 לפי דף העד",
+      "aliases": "Milikowski / Nowik",
+      "facts": [
+        {
+          "text": "בת ישראל איסר ובריינה; נרצחה בשואה.",
+          "confidence": "secondary",
+          "source": "דפי עד ומטא־נתונים ביד ושם"
+        },
+        {
+          "text": "זהו ענף נפרד. אין עדיין מסמך המחבר אותו ללוסיה, משה או יוכבד. דפי עד אינם תעודות לידה אזרחיות.",
+          "confidence": "open",
+          "source": "גבול המחקר"
+        }
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "דף עד ביד ושם",
+          "url": "https://collections.yadvashem.org/en/names/946014"
+        }
+      ],
+      "status": "secondary",
+      "pos": [
+        750,
+        300
+      ]
+    },
+    {
+      "id": "mordechai",
+      "name": "מרדכי מקס נוביק",
+      "branch": "testimony",
+      "summary": "בעל גיטל, בן יקותיאל וחנה/גיטל לפי דף העד.",
+      "dates": "1900 לפי דף העד",
+      "aliases": "Milikowski / Nowik",
+      "facts": [
+        {
+          "text": "בעל גיטל, בן יקותיאל וחנה/גיטל לפי דף העד.",
+          "confidence": "secondary",
+          "source": "דפי עד ומטא־נתונים ביד ושם"
+        },
+        {
+          "text": "זהו ענף נפרד. אין עדיין מסמך המחבר אותו ללוסיה, משה או יוכבד. דפי עד אינם תעודות לידה אזרחיות.",
+          "confidence": "open",
+          "source": "גבול המחקר"
+        }
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "דף עד ביד ושם",
+          "url": "https://collections.yadvashem.org/en/names/13526547"
+        }
+      ],
+      "status": "secondary",
+      "pos": [
+        1050,
+        300
+      ]
+    },
+    {
+      "id": "yehudit",
+      "name": "יהודית נוביק",
+      "branch": "testimony",
+      "summary": "בת מרדכי מקס וגיטל; נרצחה בשואה.",
+      "dates": "1932 לפי עדות הרצל",
+      "aliases": "Milikowski / Nowik",
+      "facts": [
+        {
+          "text": "בת מרדכי מקס וגיטל; נרצחה בשואה.",
+          "confidence": "secondary",
+          "source": "דפי עד ומטא־נתונים ביד ושם"
+        },
+        {
+          "text": "זהו ענף נפרד. אין עדיין מסמך המחבר אותו ללוסיה, משה או יוכבד. דפי עד אינם תעודות לידה אזרחיות.",
+          "confidence": "open",
+          "source": "גבול המחקר"
+        }
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "דף עד ביד ושם",
+          "url": "https://collections.yadvashem.org/en/names/17048034"
+        }
+      ],
+      "status": "secondary",
+      "pos": [
+        800,
+        540
+      ]
+    },
+    {
+      "id": "braindel",
+      "name": "בריינדל נוביק",
+      "branch": "testimony",
+      "summary": "בת מרדכי מקס וגיטל; נרצחה בשואה.",
+      "dates": "1928 לפי עדות הרצל",
+      "aliases": "Milikowski / Nowik",
+      "facts": [
+        {
+          "text": "בת מרדכי מקס וגיטל; נרצחה בשואה.",
+          "confidence": "secondary",
+          "source": "דפי עד ומטא־נתונים ביד ושם"
+        },
+        {
+          "text": "זהו ענף נפרד. אין עדיין מסמך המחבר אותו ללוסיה, משה או יוכבד. דפי עד אינם תעודות לידה אזרחיות.",
+          "confidence": "open",
+          "source": "גבול המחקר"
+        }
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "דף עד ביד ושם",
+          "url": "https://collections.yadvashem.org/en/names/16998898"
+        }
+      ],
+      "status": "secondary",
+      "pos": [
+        500,
+        540
+      ]
+    },
+    {
+      "id": "dawid",
+      "name": "דוד פורוזובסקי",
+      "branch": "leads",
+      "summary": "בן Alter וחנה/מלכה; הרצל מיליקובסקי מסר עדות כבן דוד. אין קשר מוכח ללוסיה.",
+      "dates": "1906 לפי דף העד",
+      "aliases": "Dawid Porozowski",
+      "facts": [
+        {
+          "text": "דף 460320: יליד קוסוב 1906, נשוי, פועל, נרצח; הרצל מוגדר בן דוד.",
+          "confidence": "secondary",
+          "source": "דף עד"
+        },
+        {
+          "text": "ייתכן שזה Dawid בספר קוסוב עמ׳ 65, עם אשה ושני ילדים; הזיהוי לא הוכח.",
+          "confidence": "candidate",
+          "source": "ספר קוסוב"
+        }
+      ],
+      "documents": [
+        "yadvashem-dawid-porozowski-460320.avif"
+      ],
+      "sources": [
+        {
+          "label": "דף עד 460320",
+          "url": "https://collections.yadvashem.org/en/names/460320"
+        },
+        {
+          "label": "נספח יוצאי קוסוב פולסקי, סוף 1945",
+          "url": "https://www.jewishgen.org/yizkor/Kosava/kos115.html"
+        }
+      ],
+      "status": "candidate",
+      "pos": null
+    },
+    {
+      "id": "zlatka",
+      "name": "זלטקה נוביק",
+      "branch": "leads",
+      "summary": "לבית מיליקובסקי, ילידת קוסוב פולסקי 1911; אין קשר מוכח למשה ויוכבד.",
+      "dates": "1911",
+      "aliases": "Zlatka Milikovsky; Nowik",
+      "facts": [
+        {
+          "text": "עמודים 18-19 בתיק התאזרחות 43830-S: ילידת קוסוב פולסקי 1911, אשת יצחק / Icko Nowik.",
+          "confidence": "documented",
+          "source": "תיק ההתאזרחות"
+        },
+        {
+          "text": "שמות הוריה אינם בעמודים האלה. אין להוסיף כאחות לפי שם משפחה ועיר בלבד.",
+          "confidence": "open",
+          "source": "גבול זיהוי"
+        }
+      ],
+      "documents": [
+        "nowik-zlatka-naturalization-1940-page18.jpg",
+        "nowik-zlatka-naturalization-1940-page19.jpg"
+      ],
+      "sources": [
+        {
+          "label": "תיק התאזרחות 43830-S",
+          "url": "https://www.myheritage.co.il/research/collection-10902/mandatory-palestine-naturalization-applications-1937-1947?itemId=43830-S&action=showRecord"
+        },
+        {
+          "label": "נספח יוצאי קוסוב פולסקי, סוף 1945",
+          "url": "https://www.jewishgen.org/yizkor/Kosava/kos115.html"
+        }
+      ],
+      "status": "candidate",
+      "pos": null
+    },
+    {
+      "id": "liusa",
+      "name": "ליוסה מיליקובסקי",
+      "branch": "leads",
+      "summary": "בת משה בעין חרוד, 1937. מועמדת ללוסיה בלבד.",
+      "dates": "1937",
+      "aliases": "Liusa Milikovsky",
+      "facts": [
+        {
+          "text": "IGRA-1937-VotersList-203: בת משה, עין חרוד. אין אם, גיל, בן זוג או תאריך לידה בסיכום.",
+          "confidence": "secondary",
+          "source": "IGRA"
+        },
+        {
+          "text": "מקור: פנקס הבוגרים של כנסת ישראל תרצ״ז, הארכיון הציוני המרכזי. סימול ועמוד טרם אותרו; 203 הוא מזהה אינדקס.",
+          "confidence": "secondary",
+          "source": "מסנני מקור IGRA"
+        },
+        {
+          "text": "אין מיפוי מוכח לפנקסי חיפה בארכיון המדינה, ואין להסיק שנת לידה מגיל רישום או זכאות להצבעה.",
+          "confidence": "open",
+          "source": "גבול המקור"
+        }
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "אינדקס IGRA, חיפוש AID",
+          "url": "https://genealogy.org.il/AID/"
+        },
+        {
+          "label": "פרויקט אינדוקס 1937",
+          "url": "https://csindexing.com/projectinformation.php?p=1317"
+        }
+      ],
+      "status": "candidate",
+      "pos": null
+    },
+    {
+      "id": "fruma",
+      "name": "פרומה מיליקובסקי",
+      "branch": "leads",
+      "summary": "בת משה, תל אביב 1944. אין מסמך שמחבר אותה כאחות.",
+      "dates": "1944",
+      "aliases": "Fruma",
+      "facts": [
+        {
+          "text": "IGRA-1944-Voters-List-Knesset-Israel-61989; הסריקה ופרטי הכתובת לא נקראו.",
+          "confidence": "secondary",
+          "source": "IGRA"
+        },
+        {
+          "text": "סמיכות מזהה לרשומת אהובה אינה מוכיחה כתובת משותפת או קשר משפחתי.",
+          "confidence": "open",
+          "source": "גבול זיהוי"
+        }
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "אינדקס IGRA, חיפוש AID",
+          "url": "https://genealogy.org.il/AID/"
+        }
+      ],
+      "status": "candidate",
+      "pos": null
+    },
+    {
+      "id": "leib-banka",
+      "name": "ליב בנקה",
+      "branch": "leads",
+      "summary": "שם מועמד באינדקס נישואין פלונסק 1908, ללא הורים או מספר אקט.",
+      "dates": "1908",
+      "aliases": "Банка Лейбъ; Leib Banka",
+      "facts": [
+        {
+          "text": "פריט 2 בטור שמאל. העמודה הסמוכה היא גיל, לא מספר אקט; הספרה נראית 9 אך הקריאה חריגה ולא מוכרעת.",
+          "confidence": "candidate",
+          "source": "אינדקס 1908"
+        },
+        {
+          "text": "39 תמונות אקטים נשמרו, אך לא כולן פוענחו שמית. אין אקט מזוהה ואין תוצאה שלילית מלאה לשנה.",
+          "confidence": "open",
+          "source": "סקירת 1908"
+        },
+        {
+          "text": "שם חוזר באקטים 20 ו־35 הוא רב העיר, ולא חתן או אב קדמון מזוהה.",
+          "confidence": "documented",
+          "source": "תיקון פענוח"
+        }
+      ],
+      "documents": [
+        "plonsk-marriage-index-1908.jpg"
+      ],
+      "sources": [
+        {
+          "label": "כרך נישואין 1908",
+          "url": "https://metryki.genealodzy.pl/id1913-sy1908-kt2"
+        }
+      ],
+      "status": "candidate",
+      "pos": null
+    },
+    {
+      "id": "gersz-1903",
+      "name": "גרש בנקה, לידה 1903",
+      "branch": "leads",
+      "summary": "בן בנדט וריבקה בסריקת הלידה. אין זיהוי עם צבי או עם הנפטר ב־1910.",
+      "dates": "29.1.1903, ככתוב",
+      "aliases": "Gersz; Gersh",
+      "facts": [
+        {
+          "text": "אקט 10: האב בנדט בנקה, בקריאה הראשונה בן 61; האם ריבקה. שם נעוריה לא פוענח.",
+          "confidence": "documented",
+          "source": "אקט 10/1903"
+        },
+        {
+          "text": "הפטירה 9/1910 מציינת ילד בן 7, בן בנדט וסורה. הסתירה בשם האם מונעת מיזוג ודאי.",
+          "confidence": "open",
+          "source": "סריקות 1903 ו־1910"
+        },
+        {
+          "text": "הורי צבי בתעודת 1945 שונים; מועמד זה אינו מחובר לעץ.",
+          "confidence": "candidate",
+          "source": "H63056"
+        }
+      ],
+      "documents": [
+        "plonsk-1903-birth-9-10.jpg",
+        "plonsk-1910-death-9-10.jpg"
+      ],
+      "sources": [
+        {
+          "label": "לידה 1903",
+          "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=1913&sy=1903&kt=1&plik=009-010.jpg"
+        }
+      ],
+      "status": "candidate",
+      "pos": null
+    },
+    {
+      "id": "movsha-1906",
+      "name": "משה ליב מיליקובסקי",
+      "branch": "leads",
+      "summary": "חתן בברסט 1906, בן Abel. אינו מזוהה כאב לוסיה.",
+      "dates": "22.8.1906",
+      "aliases": "Movsha Leyb Milikovsky",
+      "facts": [
+        {
+          "text": "אינדקס: בן 26, גרוש מקוסובה, נישא ל־Fruma Zelkin בת Irma, בת 22; אקט 141, NHABGrodno/1870/1/21.",
+          "confidence": "secondary",
+          "source": "JewishGen"
+        },
+        {
+          "text": "הכלה אינה יוכבד, ואין מסמך המקשר את החתן למשפחה.",
+          "confidence": "open",
+          "source": "גבול זיהוי"
+        }
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "תיאור מאגר נישואי בלארוס",
+          "url": "https://www.jewishgen.org/belarus/lists/belarus_marriagesanddivorces.html"
+        }
+      ],
+      "status": "candidate",
+      "pos": null
+    },
+    {
+      "id": "devorah-marmor",
+      "name": "דבורה מרמור",
+      "branch": "marmor",
+      "summary": "ילד/ה של יהודה ליב וחיה שרה, ואח/ות שלום, לפי מקור ביוגרפי משני.",
+      "dates": "",
+      "aliases": "Devorah",
+      "status": "secondary",
+      "pos": [
+        0,
+        560
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "ביוגרפיה של חיה שרה, מקור משני",
+          "url": "https://hadarperry.wordpress.com/2019/08/02/חיה-שרה-מרמור-האישה-הגיבורה/"
+        }
+      ],
+      "facts": [
+        {
+          "text": "הקשר מופיע במאמר הביוגרפי על חיה שרה; תעודה משפחתית עצמאית לא נבדקה.",
+          "confidence": "secondary",
+          "source": "מאמר הדר פרי"
+        }
+      ]
+    },
+    {
+      "id": "aharon-marmor",
+      "name": "אהרן מרמור",
+      "branch": "marmor",
+      "summary": "ילד/ה של יהודה ליב וחיה שרה, ואח/ות שלום, לפי מקור ביוגרפי משני.",
+      "dates": "",
+      "aliases": "Aharon",
+      "status": "secondary",
+      "pos": [
+        280,
+        560
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "ביוגרפיה של חיה שרה, מקור משני",
+          "url": "https://hadarperry.wordpress.com/2019/08/02/חיה-שרה-מרמור-האישה-הגיבורה/"
+        }
+      ],
+      "facts": [
+        {
+          "text": "הקשר מופיע במאמר הביוגרפי על חיה שרה; תעודה משפחתית עצמאית לא נבדקה.",
+          "confidence": "secondary",
+          "source": "מאמר הדר פרי"
+        }
+      ]
+    },
+    {
+      "id": "eliphelet",
+      "name": "אליפלט מרמור",
+      "branch": "marmor",
+      "summary": "ילד/ה של יהודה ליב וחיה שרה, ואח/ות שלום, לפי מקור ביוגרפי משני.",
+      "dates": "",
+      "aliases": "Eliphelet",
+      "status": "secondary",
+      "pos": [
+        560,
+        560
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "ביוגרפיה של חיה שרה, מקור משני",
+          "url": "https://hadarperry.wordpress.com/2019/08/02/חיה-שרה-מרמור-האישה-הגיבורה/"
+        }
+      ],
+      "facts": [
+        {
+          "text": "הקשר מופיע במאמר הביוגרפי על חיה שרה; תעודה משפחתית עצמאית לא נבדקה.",
+          "confidence": "secondary",
+          "source": "מאמר הדר פרי"
+        }
+      ]
+    },
+    {
+      "id": "yaakov-marmor",
+      "name": "יעקב מרמור",
+      "branch": "marmor",
+      "summary": "ילד/ה של יהודה ליב וחיה שרה, ואח/ות שלום, לפי מקור ביוגרפי משני.",
+      "dates": "",
+      "aliases": "Yaakov",
+      "status": "secondary",
+      "pos": [
+        840,
+        560
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "ביוגרפיה של חיה שרה, מקור משני",
+          "url": "https://hadarperry.wordpress.com/2019/08/02/חיה-שרה-מרמור-האישה-הגיבורה/"
+        }
+      ],
+      "facts": [
+        {
+          "text": "הקשר מופיע במאמר הביוגרפי על חיה שרה; תעודה משפחתית עצמאית לא נבדקה.",
+          "confidence": "secondary",
+          "source": "מאמר הדר פרי"
+        }
+      ]
+    },
+    {
+      "id": "yocheved-marmor",
+      "name": "יוכבד מרמור",
+      "branch": "marmor",
+      "summary": "ילד/ה של יהודה ליב וחיה שרה, ואח/ות שלום, לפי מקור ביוגרפי משני.",
+      "dates": "",
+      "aliases": "יוכבד פולני; Yocheved Polani",
+      "status": "secondary",
+      "pos": [
+        1120,
+        560
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "ביוגרפיה של חיה שרה, מקור משני",
+          "url": "https://hadarperry.wordpress.com/2019/08/02/חיה-שרה-מרמור-האישה-הגיבורה/"
+        }
+      ],
+      "facts": [
+        {
+          "text": "הקשר מופיע במאמר הביוגרפי על חיה שרה; תעודה משפחתית עצמאית לא נבדקה.",
+          "confidence": "secondary",
+          "source": "מאמר הדר פרי"
+        },
+        {
+          "text": "יוכבד מרמור / פולני אינה יוכבד מיליקובסקי לבית טוכמן. שמות דומים אינם בסיס למיזוג.",
+          "confidence": "open",
+          "source": "הבחנת זהויות"
+        }
+      ]
+    },
+    {
+      "id": "rachel-marmor",
+      "name": "רחל מרמור",
+      "branch": "marmor",
+      "summary": "ילד/ה של יהודה ליב וחיה שרה, ואח/ות שלום, לפי מקור ביוגרפי משני.",
+      "dates": "",
+      "aliases": "Rachel",
+      "status": "secondary",
+      "pos": [
+        1400,
+        560
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "ביוגרפיה של חיה שרה, מקור משני",
+          "url": "https://hadarperry.wordpress.com/2019/08/02/חיה-שרה-מרמור-האישה-הגיבורה/"
+        }
+      ],
+      "facts": [
+        {
+          "text": "הקשר מופיע במאמר הביוגרפי על חיה שרה; תעודה משפחתית עצמאית לא נבדקה.",
+          "confidence": "secondary",
+          "source": "מאמר הדר פרי"
+        }
+      ]
+    },
+    {
+      "id": "naftali",
+      "name": "נפתלי קדיש מלמד (פוזנר)",
+      "branch": "marmor",
+      "summary": "הורה של חיה שרה לפי מאמר ביוגרפי משני.",
+      "dates": "",
+      "aliases": "",
+      "status": "secondary",
+      "pos": [
+        250,
+        -150
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "ביוגרפיה של חיה שרה, מקור משני",
+          "url": "https://hadarperry.wordpress.com/2019/08/02/חיה-שרה-מרמור-האישה-הגיבורה/"
+        }
+      ],
+      "facts": [
+        {
+          "text": "מוזכר/ת כהורה של חיה שרה במאמר הדר פרי; אין כאן תעודת מקור שנבדקה.",
+          "confidence": "secondary",
+          "source": "מאמר הדר פרי"
+        }
+      ]
+    },
+    {
+      "id": "devorah-mother",
+      "name": "דבורה, אם חיה שרה",
+      "branch": "marmor",
+      "summary": "הורה של חיה שרה לפי מאמר ביוגרפי משני.",
+      "dates": "",
+      "aliases": "",
+      "status": "secondary",
+      "pos": [
+        0,
+        -150
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "ביוגרפיה של חיה שרה, מקור משני",
+          "url": "https://hadarperry.wordpress.com/2019/08/02/חיה-שרה-מרמור-האישה-הגיבורה/"
+        }
+      ],
+      "facts": [
+        {
+          "text": "מוזכר/ת כהורה של חיה שרה במאמר הדר פרי; אין כאן תעודת מקור שנבדקה.",
+          "confidence": "secondary",
+          "source": "מאמר הדר פרי"
+        }
+      ]
+    },
+    {
+      "id": "levy-banka",
+      "name": "לוי בנקה",
+      "branch": "banka-history",
+      "summary": "מופיע באילן BANKA של KehilaLinks, מקור משפחתי משני.",
+      "dates": "",
+      "aliases": "",
+      "status": "secondary",
+      "pos": [
+        600,
+        0
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "תושבי פלונסק באות B, אילן משפחתי משני",
+          "url": "https://kehilalinks.jewishgen.org/plonsk/residents/residents_b.html"
+        }
+      ],
+      "facts": [
+        {
+          "text": "הפרטים מגיעים מאילן של צאצא ומושווים לאינדקס JRI. תאריכים וקשרי זהות אינם מאומתים כאן בתעודות.",
+          "confidence": "secondary",
+          "source": "KehilaLinks"
+        },
+        {
+          "text": "אין חיבור מוכח לענף ירקוני, לזוג של 1910 או זהות אוטומטית עם אדם בשם דומה בתעודת 1875.",
+          "confidence": "open",
+          "source": "גבול הזיהוי"
+        }
+      ]
+    },
+    {
+      "id": "hersh-old",
+      "name": "הירש בנקה",
+      "branch": "banka-history",
+      "summary": "מופיע באילן BANKA של KehilaLinks, מקור משפחתי משני.",
+      "dates": "1814-1882 לפי האילן",
+      "aliases": "",
+      "status": "secondary",
+      "pos": [
+        450,
+        190
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "תושבי פלונסק באות B, אילן משפחתי משני",
+          "url": "https://kehilalinks.jewishgen.org/plonsk/residents/residents_b.html"
+        }
+      ],
+      "facts": [
+        {
+          "text": "הפרטים מגיעים מאילן של צאצא ומושווים לאינדקס JRI. תאריכים וקשרי זהות אינם מאומתים כאן בתעודות.",
+          "confidence": "secondary",
+          "source": "KehilaLinks"
+        },
+        {
+          "text": "אין חיבור מוכח לענף ירקוני, לזוג של 1910 או זהות אוטומטית עם אדם בשם דומה בתעודת 1875.",
+          "confidence": "open",
+          "source": "גבול הזיהוי"
+        }
+      ]
+    },
+    {
+      "id": "sory-szrayber",
+      "name": "סורי שרייבר",
+      "branch": "banka-history",
+      "summary": "מופיע באילן BANKA של KehilaLinks, מקור משפחתי משני.",
+      "dates": "",
+      "aliases": "",
+      "status": "secondary",
+      "pos": [
+        750,
+        190
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "תושבי פלונסק באות B, אילן משפחתי משני",
+          "url": "https://kehilalinks.jewishgen.org/plonsk/residents/residents_b.html"
+        }
+      ],
+      "facts": [
+        {
+          "text": "הפרטים מגיעים מאילן של צאצא ומושווים לאינדקס JRI. תאריכים וקשרי זהות אינם מאומתים כאן בתעודות.",
+          "confidence": "secondary",
+          "source": "KehilaLinks"
+        },
+        {
+          "text": "אין חיבור מוכח לענף ירקוני, לזוג של 1910 או זהות אוטומטית עם אדם בשם דומה בתעודת 1875.",
+          "confidence": "open",
+          "source": "גבול הזיהוי"
+        }
+      ]
+    },
+    {
+      "id": "bendyt-tree",
+      "name": "בנדיט בנקה",
+      "branch": "banka-history",
+      "summary": "מופיע באילן BANKA של KehilaLinks, מקור משפחתי משני.",
+      "dates": "1841 לפי האילן",
+      "aliases": "",
+      "status": "secondary",
+      "pos": [
+        0,
+        410
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "תושבי פלונסק באות B, אילן משפחתי משני",
+          "url": "https://kehilalinks.jewishgen.org/plonsk/residents/residents_b.html"
+        }
+      ],
+      "facts": [
+        {
+          "text": "הפרטים מגיעים מאילן של צאצא ומושווים לאינדקס JRI. תאריכים וקשרי זהות אינם מאומתים כאן בתעודות.",
+          "confidence": "secondary",
+          "source": "KehilaLinks"
+        },
+        {
+          "text": "אין חיבור מוכח לענף ירקוני, לזוג של 1910 או זהות אוטומטית עם אדם בשם דומה בתעודת 1875.",
+          "confidence": "open",
+          "source": "גבול הזיהוי"
+        }
+      ]
+    },
+    {
+      "id": "susy-tree",
+      "name": "סוזי מכלי שרייבר",
+      "branch": "banka-history",
+      "summary": "מופיע באילן BANKA של KehilaLinks, מקור משפחתי משני.",
+      "dates": "1837 לפי האילן",
+      "aliases": "",
+      "status": "secondary",
+      "pos": [
+        0,
+        620
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "תושבי פלונסק באות B, אילן משפחתי משני",
+          "url": "https://kehilalinks.jewishgen.org/plonsk/residents/residents_b.html"
+        }
+      ],
+      "facts": [
+        {
+          "text": "הפרטים מגיעים מאילן של צאצא ומושווים לאינדקס JRI. תאריכים וקשרי זהות אינם מאומתים כאן בתעודות.",
+          "confidence": "secondary",
+          "source": "KehilaLinks"
+        },
+        {
+          "text": "אין חיבור מוכח לענף ירקוני, לזוג של 1910 או זהות אוטומטית עם אדם בשם דומה בתעודת 1875.",
+          "confidence": "open",
+          "source": "גבול הזיהוי"
+        }
+      ]
+    },
+    {
+      "id": "josef-chaim",
+      "name": "יוסף חיים בנקה",
+      "branch": "banka-history",
+      "summary": "מופיע באילן BANKA של KehilaLinks, מקור משפחתי משני.",
+      "dates": "1839-1843 לפי האילן",
+      "aliases": "",
+      "status": "secondary",
+      "pos": [
+        270,
+        410
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "תושבי פלונסק באות B, אילן משפחתי משני",
+          "url": "https://kehilalinks.jewishgen.org/plonsk/residents/residents_b.html"
+        }
+      ],
+      "facts": [
+        {
+          "text": "הפרטים מגיעים מאילן של צאצא ומושווים לאינדקס JRI. תאריכים וקשרי זהות אינם מאומתים כאן בתעודות.",
+          "confidence": "secondary",
+          "source": "KehilaLinks"
+        },
+        {
+          "text": "אין חיבור מוכח לענף ירקוני, לזוג של 1910 או זהות אוטומטית עם אדם בשם דומה בתעודת 1875.",
+          "confidence": "open",
+          "source": "גבול הזיהוי"
+        }
+      ]
+    },
+    {
+      "id": "laje",
+      "name": "לאיה ברנד",
+      "branch": "banka-history",
+      "summary": "מופיע באילן BANKA של KehilaLinks, מקור משפחתי משני.",
+      "dates": "1835 לפי האילן",
+      "aliases": "",
+      "status": "secondary",
+      "pos": [
+        540,
+        410
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "תושבי פלונסק באות B, אילן משפחתי משני",
+          "url": "https://kehilalinks.jewishgen.org/plonsk/residents/residents_b.html"
+        }
+      ],
+      "facts": [
+        {
+          "text": "הפרטים מגיעים מאילן של צאצא ומושווים לאינדקס JRI. תאריכים וקשרי זהות אינם מאומתים כאן בתעודות.",
+          "confidence": "secondary",
+          "source": "KehilaLinks"
+        },
+        {
+          "text": "אין חיבור מוכח לענף ירקוני, לזוג של 1910 או זהות אוטומטית עם אדם בשם דומה בתעודת 1875.",
+          "confidence": "open",
+          "source": "גבול הזיהוי"
+        }
+      ]
+    },
+    {
+      "id": "israel-abram",
+      "name": "ישראל אברהם בנקה",
+      "branch": "banka-history",
+      "summary": "מופיע באילן BANKA של KehilaLinks, מקור משפחתי משני.",
+      "dates": "1842-1904 לפי האילן",
+      "aliases": "",
+      "status": "secondary",
+      "pos": [
+        810,
+        410
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "תושבי פלונסק באות B, אילן משפחתי משני",
+          "url": "https://kehilalinks.jewishgen.org/plonsk/residents/residents_b.html"
+        }
+      ],
+      "facts": [
+        {
+          "text": "הפרטים מגיעים מאילן של צאצא ומושווים לאינדקס JRI. תאריכים וקשרי זהות אינם מאומתים כאן בתעודות.",
+          "confidence": "secondary",
+          "source": "KehilaLinks"
+        },
+        {
+          "text": "אין חיבור מוכח לענף ירקוני, לזוג של 1910 או זהות אוטומטית עם אדם בשם דומה בתעודת 1875.",
+          "confidence": "open",
+          "source": "גבול הזיהוי"
+        }
+      ]
+    },
+    {
+      "id": "mendel",
+      "name": "מנדל בנקה",
+      "branch": "banka-history",
+      "summary": "מופיע באילן BANKA של KehilaLinks, מקור משפחתי משני.",
+      "dates": "1850-1851 לפי האילן",
+      "aliases": "",
+      "status": "secondary",
+      "pos": [
+        1080,
+        410
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "תושבי פלונסק באות B, אילן משפחתי משני",
+          "url": "https://kehilalinks.jewishgen.org/plonsk/residents/residents_b.html"
+        }
+      ],
+      "facts": [
+        {
+          "text": "הפרטים מגיעים מאילן של צאצא ומושווים לאינדקס JRI. תאריכים וקשרי זהות אינם מאומתים כאן בתעודות.",
+          "confidence": "secondary",
+          "source": "KehilaLinks"
+        },
+        {
+          "text": "אין חיבור מוכח לענף ירקוני, לזוג של 1910 או זהות אוטומטית עם אדם בשם דומה בתעודת 1875.",
+          "confidence": "open",
+          "source": "גבול הזיהוי"
+        }
+      ]
+    },
+    {
+      "id": "moszek",
+      "name": "משה בנקה",
+      "branch": "banka-history",
+      "summary": "מופיע באילן BANKA של KehilaLinks, מקור משפחתי משני.",
+      "dates": "1853-1856 לפי האילן",
+      "aliases": "",
+      "status": "secondary",
+      "pos": [
+        1350,
+        410
+      ],
+      "documents": [],
+      "sources": [
+        {
+          "label": "תושבי פלונסק באות B, אילן משפחתי משני",
+          "url": "https://kehilalinks.jewishgen.org/plonsk/residents/residents_b.html"
+        }
+      ],
+      "facts": [
+        {
+          "text": "הפרטים מגיעים מאילן של צאצא ומושווים לאינדקס JRI. תאריכים וקשרי זהות אינם מאומתים כאן בתעודות.",
+          "confidence": "secondary",
+          "source": "KehilaLinks"
+        },
+        {
+          "text": "אין חיבור מוכח לענף ירקוני, לזוג של 1910 או זהות אוטומטית עם אדם בשם דומה בתעודת 1875.",
+          "confidence": "open",
+          "source": "גבול הזיהוי"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "fromId": "avraham-yaakov",
+      "toId": "tzvi",
+      "kind": "parent",
+      "confidence": "documented",
+      "note": "תעודת נישואין או מצבה, כמפורט בתיק האדם"
+    },
+    {
+      "fromId": "chaya-malka",
+      "toId": "tzvi",
+      "kind": "parent",
+      "confidence": "documented",
+      "note": "תעודת נישואין או מצבה, כמפורט בתיק האדם"
+    },
+    {
+      "fromId": "moshe",
+      "toId": "lucia",
+      "kind": "parent",
+      "confidence": "documented",
+      "note": "תעודת נישואין או מצבה, כמפורט בתיק האדם"
+    },
+    {
+      "fromId": "yocheved",
+      "toId": "lucia",
+      "kind": "parent",
+      "confidence": "documented",
+      "note": "תעודת נישואין או מצבה, כמפורט בתיק האדם"
+    },
+    {
+      "fromId": "moshe",
+      "toId": "shoshana",
+      "kind": "parent",
+      "confidence": "documented",
+      "note": "תעודת נישואין או מצבה, כמפורט בתיק האדם"
+    },
+    {
+      "fromId": "yocheved",
+      "toId": "shoshana",
+      "kind": "parent",
+      "confidence": "documented",
+      "note": "תעודת נישואין או מצבה, כמפורט בתיק האדם"
+    },
+    {
+      "fromId": "moshe",
+      "toId": "zipporah",
+      "kind": "parent",
+      "confidence": "documented",
+      "note": "תעודת נישואין או מצבה, כמפורט בתיק האדם"
+    },
+    {
+      "fromId": "yocheved",
+      "toId": "zipporah",
+      "kind": "parent",
+      "confidence": "documented",
+      "note": "תעודת נישואין או מצבה, כמפורט בתיק האדם"
+    },
+    {
+      "fromId": "moshe",
+      "toId": "ahuva",
+      "kind": "parent",
+      "confidence": "documented",
+      "note": "תעודת נישואין או מצבה, כמפורט בתיק האדם"
+    },
+    {
+      "fromId": "yocheved",
+      "toId": "ahuva",
+      "kind": "parent",
+      "confidence": "documented",
+      "note": "תעודת נישואין או מצבה, כמפורט בתיק האדם"
+    },
+    {
+      "fromId": "binyamin",
+      "toId": "tzvi-menachemi",
+      "kind": "parent",
+      "confidence": "documented",
+      "note": "תעודת נישואין או מצבה, כמפורט בתיק האדם"
+    },
+    {
+      "fromId": "chaya-menachmovitz",
+      "toId": "tzvi-menachemi",
+      "kind": "parent",
+      "confidence": "documented",
+      "note": "תעודת נישואין או מצבה, כמפורט בתיק האדם"
+    },
+    {
+      "fromId": "chaya-sara",
+      "toId": "shalom",
+      "kind": "parent",
+      "confidence": "documented",
+      "note": "תעודת נישואין או מצבה, כמפורט בתיק האדם"
+    },
+    {
+      "fromId": "tzvi",
+      "toId": "lucia",
+      "kind": "spouse",
+      "confidence": "documented",
+      "note": "תעודת נישואין"
+    },
+    {
+      "fromId": "ahuva",
+      "toId": "tzvi-menachemi",
+      "kind": "spouse",
+      "confidence": "documented",
+      "note": "תעודת נישואין"
+    },
+    {
+      "fromId": "shoshana",
+      "toId": "shalom",
+      "kind": "spouse",
+      "confidence": "documented",
+      "note": "תעודת נישואין"
+    },
+    {
+      "fromId": "tzvi",
+      "toId": "avraham",
+      "kind": "parent",
+      "confidence": "family",
+      "note": "מידע משפחתי; תעודת ילד-הורה טרם נמצאה"
+    },
+    {
+      "fromId": "lucia",
+      "toId": "avraham",
+      "kind": "parent",
+      "confidence": "family",
+      "note": "מידע משפחתי; תעודת ילד-הורה טרם נמצאה"
+    },
+    {
+      "fromId": "arie",
+      "toId": "shalom",
+      "kind": "parent",
+      "confidence": "candidate",
+      "note": "שם האב בתעודת 1940; לא זוהה עם יהודה ליב"
+    },
+    {
+      "fromId": "yehuda-leib",
+      "toId": "shalom",
+      "kind": "parent",
+      "confidence": "documented",
+      "note": "שם האב במצבה; לא זוהה עם אריה"
+    },
+    {
+      "fromId": "zevulun",
+      "toId": "yocheved",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "עץ Geni בלבד"
+    },
+    {
+      "fromId": "zevulun",
+      "toId": "meir",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "עץ Geni בלבד"
+    },
+    {
+      "fromId": "zevulun",
+      "toId": "leah",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "עץ Geni בלבד"
+    },
+    {
+      "fromId": "ahuva",
+      "toId": "moshe-menachemi",
+      "kind": "parent",
+      "confidence": "candidate",
+      "note": "ויקיפדיה ללא אסמכתה לפרט ההורים"
+    },
+    {
+      "fromId": "tzvi-menachemi",
+      "toId": "moshe-menachemi",
+      "kind": "parent",
+      "confidence": "candidate",
+      "note": "ויקיפדיה ללא אסמכתה לפרט ההורים"
+    },
+    {
+      "fromId": "abram-1910",
+      "toId": "ber-dawid",
+      "kind": "parent",
+      "confidence": "documented",
+      "note": "תעודות לידה 60 ו־61"
+    },
+    {
+      "fromId": "abram-1910",
+      "toId": "sura-child",
+      "kind": "parent",
+      "confidence": "documented",
+      "note": "תעודות לידה 60 ו־61"
+    },
+    {
+      "fromId": "chaja-lew",
+      "toId": "ber-dawid",
+      "kind": "parent",
+      "confidence": "documented",
+      "note": "תעודות לידה 60 ו־61"
+    },
+    {
+      "fromId": "chaja-lew",
+      "toId": "sura-child",
+      "kind": "parent",
+      "confidence": "documented",
+      "note": "תעודות לידה 60 ו־61"
+    },
+    {
+      "fromId": "abram-1910",
+      "toId": "chaja-lew",
+      "kind": "spouse",
+      "confidence": "documented",
+      "note": "הורי הילדים בתעודות 1910"
+    },
+    {
+      "fromId": "bendet",
+      "toId": "abram-1875",
+      "kind": "parent",
+      "confidence": "documented",
+      "note": "אקט 72"
+    },
+    {
+      "fromId": "sura-mother",
+      "toId": "abram-1875",
+      "kind": "parent",
+      "confidence": "documented",
+      "note": "אקט 72"
+    },
+    {
+      "fromId": "israel",
+      "toId": "gitel",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "דפי עד"
+    },
+    {
+      "fromId": "israel",
+      "toId": "golda",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "דפי עד"
+    },
+    {
+      "fromId": "braine",
+      "toId": "gitel",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "דפי עד"
+    },
+    {
+      "fromId": "braine",
+      "toId": "golda",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "דפי עד"
+    },
+    {
+      "fromId": "gitel",
+      "toId": "yehudit",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "עדויות הרצל ויצחק נוביק"
+    },
+    {
+      "fromId": "gitel",
+      "toId": "braindel",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "עדויות הרצל ויצחק נוביק"
+    },
+    {
+      "fromId": "mordechai",
+      "toId": "yehudit",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "עדויות הרצל ויצחק נוביק"
+    },
+    {
+      "fromId": "mordechai",
+      "toId": "braindel",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "עדויות הרצל ויצחק נוביק"
+    },
+    {
+      "fromId": "gitel",
+      "toId": "mordechai",
+      "kind": "spouse",
+      "confidence": "secondary",
+      "note": "דפי עד"
+    },
+    {
+      "fromId": "hertzel",
+      "toId": "gitel",
+      "kind": "sibling",
+      "confidence": "secondary",
+      "note": "הרצל מוגדר אחיה"
+    },
+    {
+      "fromId": "hertzel",
+      "toId": "golda",
+      "kind": "sibling",
+      "confidence": "secondary",
+      "note": "הרצל מוגדר אחיה"
+    },
+    {
+      "fromId": "yehuda-leib",
+      "toId": "devorah-marmor",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "מאמר ביוגרפי; לא תעודת מקור שנבדקה"
+    },
+    {
+      "fromId": "chaya-sara",
+      "toId": "devorah-marmor",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "מאמר ביוגרפי; לא תעודת מקור שנבדקה"
+    },
+    {
+      "fromId": "yehuda-leib",
+      "toId": "aharon-marmor",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "מאמר ביוגרפי; לא תעודת מקור שנבדקה"
+    },
+    {
+      "fromId": "chaya-sara",
+      "toId": "aharon-marmor",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "מאמר ביוגרפי; לא תעודת מקור שנבדקה"
+    },
+    {
+      "fromId": "yehuda-leib",
+      "toId": "eliphelet",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "מאמר ביוגרפי; לא תעודת מקור שנבדקה"
+    },
+    {
+      "fromId": "chaya-sara",
+      "toId": "eliphelet",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "מאמר ביוגרפי; לא תעודת מקור שנבדקה"
+    },
+    {
+      "fromId": "yehuda-leib",
+      "toId": "yaakov-marmor",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "מאמר ביוגרפי; לא תעודת מקור שנבדקה"
+    },
+    {
+      "fromId": "chaya-sara",
+      "toId": "yaakov-marmor",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "מאמר ביוגרפי; לא תעודת מקור שנבדקה"
+    },
+    {
+      "fromId": "yehuda-leib",
+      "toId": "yocheved-marmor",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "מאמר ביוגרפי; לא תעודת מקור שנבדקה"
+    },
+    {
+      "fromId": "chaya-sara",
+      "toId": "yocheved-marmor",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "מאמר ביוגרפי; לא תעודת מקור שנבדקה"
+    },
+    {
+      "fromId": "yehuda-leib",
+      "toId": "rachel-marmor",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "מאמר ביוגרפי; לא תעודת מקור שנבדקה"
+    },
+    {
+      "fromId": "chaya-sara",
+      "toId": "rachel-marmor",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "מאמר ביוגרפי; לא תעודת מקור שנבדקה"
+    },
+    {
+      "fromId": "naftali",
+      "toId": "chaya-sara",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "מאמר ביוגרפי בלבד"
+    },
+    {
+      "fromId": "devorah-mother",
+      "toId": "chaya-sara",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "מאמר ביוגרפי בלבד"
+    },
+    {
+      "fromId": "levy-banka",
+      "toId": "hersh-old",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "אילן KehilaLinks בלבד"
+    },
+    {
+      "fromId": "hersh-old",
+      "toId": "sory-szrayber",
+      "kind": "spouse",
+      "confidence": "secondary",
+      "note": "אילן KehilaLinks בלבד"
+    },
+    {
+      "fromId": "hersh-old",
+      "toId": "bendyt-tree",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "אילן KehilaLinks בלבד"
+    },
+    {
+      "fromId": "sory-szrayber",
+      "toId": "bendyt-tree",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "אילן KehilaLinks בלבד"
+    },
+    {
+      "fromId": "hersh-old",
+      "toId": "josef-chaim",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "אילן KehilaLinks בלבד"
+    },
+    {
+      "fromId": "sory-szrayber",
+      "toId": "josef-chaim",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "אילן KehilaLinks בלבד"
+    },
+    {
+      "fromId": "hersh-old",
+      "toId": "laje",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "אילן KehilaLinks בלבד"
+    },
+    {
+      "fromId": "sory-szrayber",
+      "toId": "laje",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "אילן KehilaLinks בלבד"
+    },
+    {
+      "fromId": "hersh-old",
+      "toId": "israel-abram",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "אילן KehilaLinks בלבד"
+    },
+    {
+      "fromId": "sory-szrayber",
+      "toId": "israel-abram",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "אילן KehilaLinks בלבד"
+    },
+    {
+      "fromId": "hersh-old",
+      "toId": "mendel",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "אילן KehilaLinks בלבד"
+    },
+    {
+      "fromId": "sory-szrayber",
+      "toId": "mendel",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "אילן KehilaLinks בלבד"
+    },
+    {
+      "fromId": "hersh-old",
+      "toId": "moszek",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "אילן KehilaLinks בלבד"
+    },
+    {
+      "fromId": "sory-szrayber",
+      "toId": "moszek",
+      "kind": "parent",
+      "confidence": "secondary",
+      "note": "אילן KehilaLinks בלבד"
+    },
+    {
+      "fromId": "bendyt-tree",
+      "toId": "susy-tree",
+      "kind": "spouse",
+      "confidence": "secondary",
+      "note": "אילן KehilaLinks בלבד"
+    }
+  ],
+  "branches": [
+    {
+      "id": "family",
+      "name": "משפחת ירקוני ומיליקובסקי",
+      "note": "תעודות ומצבות לצד מידע משפחתי. קשר ההורות לאברהם עמנואל נמסר במשפחה. קשרי האחיות נתמכים בשמות ההורים; מסמך אחיות מפורש טרם נמצא."
+    },
+    {
+      "id": "plonsk1910",
+      "name": "פלונסק 1910: זוג מועמד",
+      "note": "אברהם יעקב וחיה מלכה לבית Lew הם הורי הילדים בתעודות. אין מסמך שמזהה אותם כהורי צבי. הענף מוצג בנפרד."
+    },
+    {
+      "id": "plonsk1875",
+      "name": "פלונסק 1875: ענף נפרד",
+      "note": "אברם ינקל ובית אביו בתעודת 1875. אין חיבור מוכח לזוג של 1910 או לצבי; שם נעורי האם נותר בבירור."
+    },
+    {
+      "id": "banka-history",
+      "name": "בנקה: אילן פלונסק משני",
+      "note": "אילן שנמסר בידי Avram Miller ב־KehilaLinks. חלק מהשמות תואמים לאינדקס JRI, אך אין חיבור מוכח לצבי או לזוג של 1910. אין מיזוג אוטומטי עם בנדט וסורה בתעודת 1875."
+    },
+    {
+      "id": "tuchman",
+      "name": "טוכמן: עץ משתמשים",
+      "note": "קשרי יוכבד, זבולון, מאיר ולאה מגיעים מעץ Geni בלבד. אין כאן תעודות עצמאיות."
+    },
+    {
+      "id": "marmor",
+      "name": "מרמור: שתי קריאות לאב",
+      "note": "אב שלום נקרא אריה בתעודת הנישואין ויהודה ליב במצבה. שני השמות מוצגים בנפרד; אין להניח זהות."
+    },
+    {
+      "id": "testimony",
+      "name": "קוסוב: משפחת דפי העד",
+      "note": "קשרים המתוארים בדפי עד ביד ושם. ענף נפרד ללא חיבור מוכח ללוסיה או להוריה."
+    },
+    {
+      "id": "leads",
+      "name": "מועמדים שטרם חוברו",
+      "note": "שמות דומים, רשומות אינדקס וכיווני המשך. אין לראות במועמדות קשר למשפחה."
+    }
+  ],
+  "documents": [
+    {
+      "id": "davar-1945-01-19.pdf",
+      "title": "דבר 19.1.1945, הגיליון המלא",
+      "file": "assets/documents/davar-1945-01-19.pdf",
+      "type": "PDF",
+      "category": "עיתונות",
+      "people": [
+        "tzvi",
+        "lucia",
+        "tzvi-menachemi"
+      ],
+      "bytes": 1866926,
+      "note": "נישואי צבי ולוסיה. המארח צבי מנחמי אינו מזוהה בוודאות עם החתן מתעודת H7942."
+    },
+    {
+      "id": "davar-wedding-ad-1945.png",
+      "title": "מודעת החופה, דבר 19.1.1945",
+      "file": "assets/documents/davar-wedding-ad-1945.png",
+      "type": "PNG",
+      "category": "עיתונות",
+      "people": [
+        "tzvi",
+        "lucia",
+        "tzvi-menachemi",
+        "avraham"
+      ],
+      "bytes": 25434,
+      "thumbnail": "assets/thumbnails/davar-wedding-ad-1945.webp",
+      "note": "נישואי צבי ולוסיה. המארח צבי מנחמי אינו מזוהה בוודאות עם החתן מתעודת H7942."
+    },
+    {
+      "id": "family-research.md",
+      "title": "יומן המחקר ההיסטורי",
+      "file": "assets/documents/family-research.md",
+      "type": "MD",
+      "category": "מחקר",
+      "people": [],
+      "bytes": 194861
+    },
+    {
+      "id": "family-tree-current.md",
+      "title": "תמונת המצב העדכנית",
+      "file": "assets/documents/family-tree-current.md",
+      "type": "MD",
+      "category": "מחקר",
+      "people": [],
+      "bytes": 20558
+    },
+    {
+      "id": "immigration-finance-page-86.png",
+      "title": "רשימת עלייה, מחלקת כספים, עמוד 86",
+      "file": "assets/documents/immigration-finance-page-86.png",
+      "type": "PNG",
+      "category": "תעודות",
+      "people": [],
+      "bytes": 652578,
+      "thumbnail": "assets/thumbnails/immigration-finance-page-86.webp"
+    },
+    {
+      "id": "liba-ahuva-menachemi-marriage-1933.jpg",
+      "title": "נישואי ליבא וצבי הירש, H7942",
+      "file": "assets/documents/liba-ahuva-menachemi-marriage-1933.jpg",
+      "type": "JPG",
+      "category": "תעודות",
+      "people": [
+        "moshe",
+        "yocheved",
+        "ahuva",
+        "tzvi-menachemi",
+        "binyamin",
+        "chaya-menachmovitz"
+      ],
+      "bytes": 98619,
+      "thumbnail": "assets/thumbnails/liba-ahuva-menachemi-marriage-1933.webp"
+    },
+    {
+      "id": "marmor-grave-inscription.jpg",
+      "title": "כיתוב מצבת משפחת מרמור",
+      "file": "assets/documents/marmor-grave-inscription.jpg",
+      "type": "JPG",
+      "category": "מצבות",
+      "people": [
+        "shoshana",
+        "shalom"
+      ],
+      "bytes": 123449,
+      "thumbnail": "assets/thumbnails/marmor-grave-inscription.webp"
+    },
+    {
+      "id": "namechanges-csv-review.md",
+      "title": "דוח בדיקת שינויי שמות",
+      "file": "assets/documents/namechanges-csv-review.md",
+      "type": "MD",
+      "category": "מחקר",
+      "people": [],
+      "bytes": 5678
+    },
+    {
+      "id": "nowik-zlatka-naturalization-1940-page18.jpg",
+      "title": "התאזרחות זלטקה נוביק, עמוד 18",
+      "file": "assets/documents/nowik-zlatka-naturalization-1940-page18.jpg",
+      "type": "JPG",
+      "category": "תעודות",
+      "people": [
+        "zlatka"
+      ],
+      "bytes": 103730,
+      "thumbnail": "assets/thumbnails/nowik-zlatka-naturalization-1940-page18.webp"
+    },
+    {
+      "id": "nowik-zlatka-naturalization-1940-page19.jpg",
+      "title": "התאזרחות זלטקה נוביק, עמוד 19",
+      "file": "assets/documents/nowik-zlatka-naturalization-1940-page19.jpg",
+      "type": "JPG",
+      "category": "תעודות",
+      "people": [
+        "zlatka"
+      ],
+      "bytes": 101511,
+      "thumbnail": "assets/thumbnails/nowik-zlatka-naturalization-1940-page19.webp"
+    },
+    {
+      "id": "plonsk-1869-birth-47-48.jpg",
+      "title": "פלונסק 1869, לידות 47-48",
+      "file": "assets/documents/plonsk-1869-birth-47-48.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [
+        "bendet",
+        "sura-mother",
+        "dwojra"
+      ],
+      "bytes": 770544,
+      "thumbnail": "assets/thumbnails/plonsk-1869-birth-47-48.webp"
+    },
+    {
+      "id": "plonsk-1875-birth-71-72.jpg",
+      "title": "פלונסק 1875, לידות 71-72",
+      "file": "assets/documents/plonsk-1875-birth-71-72.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [
+        "abram-1875",
+        "bendet",
+        "sura-mother"
+      ],
+      "bytes": 780414,
+      "thumbnail": "assets/thumbnails/plonsk-1875-birth-71-72.webp"
+    },
+    {
+      "id": "plonsk-1880-birth-index-1.jpg",
+      "title": "פלונסק 1880, אינדקס לידות 1",
+      "file": "assets/documents/plonsk-1880-birth-index-1.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 815304,
+      "thumbnail": "assets/thumbnails/plonsk-1880-birth-index-1.webp"
+    },
+    {
+      "id": "plonsk-1880-birth-index-2.jpg",
+      "title": "פלונסק 1880, אינדקס לידות 2",
+      "file": "assets/documents/plonsk-1880-birth-index-2.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 867518,
+      "thumbnail": "assets/thumbnails/plonsk-1880-birth-index-2.webp"
+    },
+    {
+      "id": "plonsk-1880-birth-index-3.jpg",
+      "title": "פלונסק 1880, אינדקס לידות 3",
+      "file": "assets/documents/plonsk-1880-birth-index-3.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 733363,
+      "thumbnail": "assets/thumbnails/plonsk-1880-birth-index-3.webp"
+    },
+    {
+      "id": "plonsk-1881-birth-index-2.jpg",
+      "title": "פלונסק 1881, אינדקס לידות 2",
+      "file": "assets/documents/plonsk-1881-birth-index-2.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 806944,
+      "thumbnail": "assets/thumbnails/plonsk-1881-birth-index-2.webp"
+    },
+    {
+      "id": "plonsk-1896-marriage-index.jpg",
+      "title": "פלונסק 1896, אינדקס נישואין",
+      "file": "assets/documents/plonsk-1896-marriage-index.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 814526,
+      "thumbnail": "assets/thumbnails/plonsk-1896-marriage-index.webp"
+    },
+    {
+      "id": "plonsk-1897-marriage-index.jpg",
+      "title": "פלונסק 1897, אינדקס נישואין",
+      "file": "assets/documents/plonsk-1897-marriage-index.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 764039,
+      "thumbnail": "assets/thumbnails/plonsk-1897-marriage-index.webp"
+    },
+    {
+      "id": "plonsk-1898-marriage-index.jpg",
+      "title": "פלונסק 1898, אינדקס נישואין",
+      "file": "assets/documents/plonsk-1898-marriage-index.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 861528,
+      "thumbnail": "assets/thumbnails/plonsk-1898-marriage-index.webp"
+    },
+    {
+      "id": "plonsk-1899-marriage-index.jpg",
+      "title": "פלונסק 1899, אינדקס נישואין",
+      "file": "assets/documents/plonsk-1899-marriage-index.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 837315,
+      "thumbnail": "assets/thumbnails/plonsk-1899-marriage-index.webp"
+    },
+    {
+      "id": "plonsk-1900-marriage-index.jpg",
+      "title": "פלונסק 1900, אינדקס נישואין",
+      "file": "assets/documents/plonsk-1900-marriage-index.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 818921,
+      "thumbnail": "assets/thumbnails/plonsk-1900-marriage-index.webp"
+    },
+    {
+      "id": "plonsk-1901-marriage-index-1.jpg",
+      "title": "פלונסק 1901, אינדקס נישואין 1",
+      "file": "assets/documents/plonsk-1901-marriage-index-1.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 758736,
+      "thumbnail": "assets/thumbnails/plonsk-1901-marriage-index-1.webp"
+    },
+    {
+      "id": "plonsk-1901-marriage-index-2.jpg",
+      "title": "פלונסק 1901, אינדקס נישואין 2",
+      "file": "assets/documents/plonsk-1901-marriage-index-2.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 722686,
+      "thumbnail": "assets/thumbnails/plonsk-1901-marriage-index-2.webp"
+    },
+    {
+      "id": "plonsk-1902-marriage-index-1.jpg",
+      "title": "פלונסק 1902, אינדקס נישואין 1",
+      "file": "assets/documents/plonsk-1902-marriage-index-1.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 737081,
+      "thumbnail": "assets/thumbnails/plonsk-1902-marriage-index-1.webp"
+    },
+    {
+      "id": "plonsk-1902-marriage-index-2.jpg",
+      "title": "פלונסק 1902, אינדקס נישואין 2",
+      "file": "assets/documents/plonsk-1902-marriage-index-2.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 792346,
+      "thumbnail": "assets/thumbnails/plonsk-1902-marriage-index-2.webp"
+    },
+    {
+      "id": "plonsk-1903-birth-9-10.jpg",
+      "title": "פלונסק 1903, לידות 9 10",
+      "file": "assets/documents/plonsk-1903-birth-9-10.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [
+        "gersz-1903"
+      ],
+      "bytes": 794116,
+      "thumbnail": "assets/thumbnails/plonsk-1903-birth-9-10.webp"
+    },
+    {
+      "id": "plonsk-1903-marriage-index-1.jpg",
+      "title": "פלונסק 1903, אינדקס נישואין 1",
+      "file": "assets/documents/plonsk-1903-marriage-index-1.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 800920,
+      "thumbnail": "assets/thumbnails/plonsk-1903-marriage-index-1.webp"
+    },
+    {
+      "id": "plonsk-1903-marriage-index-2.jpg",
+      "title": "פלונסק 1903, אינדקס נישואין 2",
+      "file": "assets/documents/plonsk-1903-marriage-index-2.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 760855,
+      "thumbnail": "assets/thumbnails/plonsk-1903-marriage-index-2.webp"
+    },
+    {
+      "id": "plonsk-1904-marriage-index.jpg",
+      "title": "פלונסק 1904, אינדקס נישואין",
+      "file": "assets/documents/plonsk-1904-marriage-index.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 804157,
+      "thumbnail": "assets/thumbnails/plonsk-1904-marriage-index.webp"
+    },
+    {
+      "id": "plonsk-1905-marriages-001.jpg",
+      "title": "פלונסק 1905, נישואין 001",
+      "file": "assets/documents/plonsk-1905-marriages-001.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 749968,
+      "thumbnail": "assets/thumbnails/plonsk-1905-marriages-001.webp"
+    },
+    {
+      "id": "plonsk-1905-marriages-002.jpg",
+      "title": "פלונסק 1905, נישואין 002",
+      "file": "assets/documents/plonsk-1905-marriages-002.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 737165,
+      "thumbnail": "assets/thumbnails/plonsk-1905-marriages-002.webp"
+    },
+    {
+      "id": "plonsk-1905-marriages-003.jpg",
+      "title": "פלונסק 1905, נישואין 003",
+      "file": "assets/documents/plonsk-1905-marriages-003.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 758130,
+      "thumbnail": "assets/thumbnails/plonsk-1905-marriages-003.webp"
+    },
+    {
+      "id": "plonsk-1905-marriages-004.jpg",
+      "title": "פלונסק 1905, נישואין 004",
+      "file": "assets/documents/plonsk-1905-marriages-004.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 748609,
+      "thumbnail": "assets/thumbnails/plonsk-1905-marriages-004.webp"
+    },
+    {
+      "id": "plonsk-1905-marriages-z.jpg",
+      "title": "פלונסק 1905, נישואין z",
+      "file": "assets/documents/plonsk-1905-marriages-z.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 717942,
+      "thumbnail": "assets/thumbnails/plonsk-1905-marriages-z.webp"
+    },
+    {
+      "id": "plonsk-1905-marriages-zz.jpg",
+      "title": "פלונסק 1905, נישואין zz",
+      "file": "assets/documents/plonsk-1905-marriages-zz.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 763166,
+      "thumbnail": "assets/thumbnails/plonsk-1905-marriages-zz.webp"
+    },
+    {
+      "id": "plonsk-1905-marriages-zzz.jpg",
+      "title": "פלונסק 1905, נישואין zzz",
+      "file": "assets/documents/plonsk-1905-marriages-zzz.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 869633,
+      "thumbnail": "assets/thumbnails/plonsk-1905-marriages-zzz.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-001.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 001",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-001.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 802102,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-001.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-002.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 002",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-002.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 848499,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-002.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-003.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 003",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-003.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 812812,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-003.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-004.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 004",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-004.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 854302,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-004.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-005.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 005",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-005.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 805923,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-005.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-006.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 006",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-006.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 829643,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-006.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-007.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 007",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-007.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 780550,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-007.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-008.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 008",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-008.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 805130,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-008.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-009.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 009",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-009.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 824081,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-009.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-010.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 010",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-010.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 846166,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-010.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-011.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 011",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-011.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 753927,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-011.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-012.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 012",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-012.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 801821,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-012.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-013.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 013",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-013.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 770223,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-013.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-014.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 014",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-014.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 791785,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-014.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-015.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 015",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-015.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 801146,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-015.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-016.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 016",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-016.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 834631,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-016.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-017.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 017",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-017.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 825846,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-017.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-018.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 018",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-018.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 812692,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-018.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-019.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 019",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-019.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 811060,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-019.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-020.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 020",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-020.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 848184,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-020.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-021.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 021",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-021.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 805646,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-021.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-022.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 022",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-022.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 838996,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-022.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-023.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 023",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-023.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 831352,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-023.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-024.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 024",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-024.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 847605,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-024.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-025.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 025",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-025.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 824740,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-025.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-026.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 026",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-026.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 843962,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-026.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-027.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 027",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-027.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 827726,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-027.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-028.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 028",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-028.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 814689,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-028.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-029.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 029",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-029.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 758354,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-029.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-030.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 030",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-030.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 835751,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-030.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-031.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 031",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-031.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 771953,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-031.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-032.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 032",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-032.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 791557,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-032.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-033.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 033",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-033.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 781749,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-033.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-034.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 034",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-034.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 781305,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-034.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-035.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 035",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-035.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 730589,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-035.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-036.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 036",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-036.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 755497,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-036.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-037.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 037",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-037.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 747330,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-037.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-038.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 038",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-038.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 807521,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-038.webp"
+    },
+    {
+      "id": "plonsk-1908-marriages/plonsk-1908-marriage-scan-039.jpg",
+      "title": "פלונסק 1908, סריקת נישואין 039",
+      "file": "assets/documents/plonsk-1908-marriages/plonsk-1908-marriage-scan-039.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 747834,
+      "thumbnail": "assets/thumbnails/plonsk-1908-marriages__plonsk-1908-marriage-scan-039.webp"
+    },
+    {
+      "id": "plonsk-1910-birth-59-60.jpg",
+      "title": "פלונסק 1910, לידות 59-60",
+      "file": "assets/documents/plonsk-1910-birth-59-60.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [
+        "abram-1910",
+        "chaja-lew",
+        "ber-dawid"
+      ],
+      "bytes": 789794,
+      "thumbnail": "assets/thumbnails/plonsk-1910-birth-59-60.webp"
+    },
+    {
+      "id": "plonsk-1910-birth-61-62.jpg",
+      "title": "פלונסק 1910, לידות 61-62",
+      "file": "assets/documents/plonsk-1910-birth-61-62.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [
+        "abram-1910",
+        "chaja-lew",
+        "sura-child"
+      ],
+      "bytes": 743300,
+      "thumbnail": "assets/thumbnails/plonsk-1910-birth-61-62.webp"
+    },
+    {
+      "id": "plonsk-1910-death-9-10.jpg",
+      "title": "פלונסק 1910, פטירות 9 10",
+      "file": "assets/documents/plonsk-1910-death-9-10.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [
+        "gersz-1903"
+      ],
+      "bytes": 765543,
+      "thumbnail": "assets/thumbnails/plonsk-1910-death-9-10.webp"
+    },
+    {
+      "id": "plonsk-jri-index.md",
+      "title": "58 שורות אינדקס JRI בפלונסק",
+      "file": "assets/documents/plonsk-jri-index.md",
+      "type": "MD",
+      "category": "מחקר",
+      "people": [],
+      "bytes": 7348
+    },
+    {
+      "id": "plonsk-marriage-index-1906-1908-review.md",
+      "title": "קריאת אינדקסי 1906-1908",
+      "file": "assets/documents/plonsk-marriage-index-1906-1908-review.md",
+      "type": "MD",
+      "category": "מחקר",
+      "people": [],
+      "bytes": 3572
+    },
+    {
+      "id": "plonsk-marriage-index-1906.jpg",
+      "title": "פלונסק, אינדקס נישואין 1906",
+      "file": "assets/documents/plonsk-marriage-index-1906.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 803702,
+      "thumbnail": "assets/thumbnails/plonsk-marriage-index-1906.webp"
+    },
+    {
+      "id": "plonsk-marriage-index-1907.jpg",
+      "title": "פלונסק, אינדקס נישואין 1907",
+      "file": "assets/documents/plonsk-marriage-index-1907.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 860656,
+      "thumbnail": "assets/thumbnails/plonsk-marriage-index-1907.webp"
+    },
+    {
+      "id": "plonsk-marriage-index-1908.jpg",
+      "title": "פלונסק, אינדקס נישואין 1908",
+      "file": "assets/documents/plonsk-marriage-index-1908.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [
+        "leib-banka"
+      ],
+      "bytes": 796185,
+      "thumbnail": "assets/thumbnails/plonsk-marriage-index-1908.webp"
+    },
+    {
+      "id": "plonsk-marriage-index-1909.jpg",
+      "title": "פלונסק, אינדקס נישואין 1909",
+      "file": "assets/documents/plonsk-marriage-index-1909.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 772330,
+      "thumbnail": "assets/thumbnails/plonsk-marriage-index-1909.webp"
+    },
+    {
+      "id": "plonsk-marriage-index-1910.jpg",
+      "title": "פלונסק, אינדקס נישואין 1910",
+      "file": "assets/documents/plonsk-marriage-index-1910.jpg",
+      "type": "JPG",
+      "category": "פלונסק",
+      "people": [],
+      "bytes": 837775,
+      "thumbnail": "assets/thumbnails/plonsk-marriage-index-1910.webp"
+    },
+    {
+      "id": "plonsk-marriage-index-review.md",
+      "title": "קריאת אינדקסי 1909-1910",
+      "file": "assets/documents/plonsk-marriage-index-review.md",
+      "type": "MD",
+      "category": "מחקר",
+      "people": [],
+      "bytes": 2651
+    },
+    {
+      "id": "shalom-marmor-grave.jpg",
+      "title": "מצבת שלום ושושנה, צילום מלא",
+      "file": "assets/documents/shalom-marmor-grave.jpg",
+      "type": "JPG",
+      "category": "מצבות",
+      "people": [
+        "shoshana",
+        "shalom",
+        "chaya-sara",
+        "yehuda-leib"
+      ],
+      "bytes": 261369,
+      "thumbnail": "assets/thumbnails/shalom-marmor-grave.webp"
+    },
+    {
+      "id": "shalom-shoshana-marriage-1940.jpg",
+      "title": "נישואי שלום ושושנה, H29372",
+      "file": "assets/documents/shalom-shoshana-marriage-1940.jpg",
+      "type": "JPG",
+      "category": "תעודות",
+      "people": [
+        "moshe",
+        "yocheved",
+        "shoshana",
+        "shalom",
+        "chaya-sara",
+        "arie"
+      ],
+      "bytes": 127609,
+      "thumbnail": "assets/thumbnails/shalom-shoshana-marriage-1940.webp"
+    },
+    {
+      "id": "shoshana-shalom-marmor-grave.jpg",
+      "title": "מצבת שושנה מרמור",
+      "file": "assets/documents/shoshana-shalom-marmor-grave.jpg",
+      "type": "JPG",
+      "category": "מצבות",
+      "people": [
+        "moshe",
+        "yocheved",
+        "shoshana"
+      ],
+      "bytes": 167882,
+      "thumbnail": "assets/thumbnails/shoshana-shalom-marmor-grave.webp"
+    },
+    {
+      "id": "tzvi-lucia-marriage-1945-full.jpg",
+      "title": "נישואי צבי ולוסיה, H63056, עותק מלא",
+      "file": "assets/documents/tzvi-lucia-marriage-1945-full.jpg",
+      "type": "JPG",
+      "category": "תעודות",
+      "people": [
+        "tzvi",
+        "lucia",
+        "avraham-yaakov",
+        "chaya-malka",
+        "moshe",
+        "yocheved",
+        "avraham"
+      ],
+      "bytes": 68848,
+      "thumbnail": "assets/thumbnails/tzvi-lucia-marriage-1945-full.webp"
+    },
+    {
+      "id": "tzvi-lucia-marriage-1945.png",
+      "title": "נישואי צבי ולוסיה, עותק ארכיון",
+      "file": "assets/documents/tzvi-lucia-marriage-1945.png",
+      "type": "PNG",
+      "category": "תעודות",
+      "people": [
+        "tzvi"
+      ],
+      "bytes": 299477,
+      "thumbnail": "assets/thumbnails/tzvi-lucia-marriage-1945.webp"
+    },
+    {
+      "id": "yadvashem-dawid-porozowski-460320.avif",
+      "title": "דף העד המקורי של דוד פורוזובסקי",
+      "file": "assets/documents/yadvashem-dawid-porozowski-460320.avif",
+      "type": "AVIF",
+      "category": "תעודות",
+      "people": [
+        "dawid"
+      ],
+      "bytes": 512580,
+      "thumbnail": "assets/thumbnails/yadvashem-dawid-porozowski-460320.webp"
+    },
+    {
+      "id": "zipporah-menachemi-grave-full.jpg",
+      "title": "מצבת צפורה מנחמי, צילום מלא",
+      "file": "assets/documents/zipporah-menachemi-grave-full.jpg",
+      "type": "JPG",
+      "category": "מצבות",
+      "people": [
+        "moshe",
+        "yocheved",
+        "zipporah"
+      ],
+      "bytes": 159973,
+      "thumbnail": "assets/thumbnails/zipporah-menachemi-grave-full.webp"
+    },
+    {
+      "id": "zipporah-menachemi-grave.jpg",
+      "title": "מצבת צפורה, שמות ההורים",
+      "file": "assets/documents/zipporah-menachemi-grave.jpg",
+      "type": "JPG",
+      "category": "מצבות",
+      "people": [
+        "zipporah"
+      ],
+      "bytes": 165757,
+      "thumbnail": "assets/thumbnails/zipporah-menachemi-grave.webp"
+    },
+    {
+      "id": "zipporah-obituary-review.md",
+      "title": "בדיקת מודעות צפורה",
+      "file": "assets/documents/zipporah-obituary-review.md",
+      "type": "MD",
+      "category": "מחקר",
+      "people": [],
+      "bytes": 4967
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1875-05-04",
+      "title": "לידת אברם ינקל בנקה",
+      "people": [
+        "abram-1875"
+      ],
+      "confidence": "candidate",
+      "note": "אקט 72, ענף נפרד; תאריך ככתוב ללא המרה."
+    },
+    {
+      "date": "1910-06-14",
+      "title": "בר דוד וסורה מכלה בפלונסק",
+      "people": [
+        "ber-dawid",
+        "sura-child"
+      ],
+      "confidence": "candidate",
+      "note": "הורי הילדים מתועדים; הקשר לצבי לא הוכח. ללא המרה לוחית."
+    },
+    {
+      "date": "1933-10-25",
+      "title": "נישואי ליבא וצבי הירש",
+      "people": [
+        "ahuva",
+        "tzvi-menachemi"
+      ],
+      "confidence": "documented",
+      "note": "רמת גן, H7942. מגורי יוכבד בקוסוב פולסקי."
+    },
+    {
+      "date": "1937",
+      "title": "ליוסה בת משה בעין חרוד",
+      "people": [
+        "liusa"
+      ],
+      "confidence": "candidate",
+      "note": "אינדקס IGRA; זהותה עם לוסיה טרם הוכחה."
+    },
+    {
+      "date": "1940-03-28",
+      "title": "נישואי שושנה ושלום",
+      "people": [
+        "shoshana",
+        "shalom"
+      ],
+      "confidence": "documented",
+      "note": "עפולה, H29372. תאריך הסריקה גובר על תאריך האינדקס השגוי."
+    },
+    {
+      "date": "1945-01-19",
+      "title": "פרסום מודעת החופה",
+      "people": [
+        "tzvi",
+        "lucia"
+      ],
+      "confidence": "documented",
+      "note": "המודעה מזמינה לחופה ב־23.1, בשעה 5 אחה״צ, בבית צבי מנחמי."
+    },
+    {
+      "date": "1945-01-24",
+      "title": "נישואי צבי ולוסיה בתעודה",
+      "people": [
+        "tzvi",
+        "lucia"
+      ],
+      "confidence": "documented",
+      "note": "עפולה, H63056. פער יום ממועד החופה במודעה אינו מוסבר."
+    },
+    {
+      "date": "1945-11-29",
+      "title": "לידת אברהם עמנואל",
+      "people": [
+        "avraham"
+      ],
+      "confidence": "family",
+      "note": "עפולה, לפי המידע המשפחתי. טרם נמצאה תעודת לידה עצמאית."
+    },
+    {
+      "date": "1982-10-16",
+      "title": "פטירת שלום מרמור",
+      "people": [
+        "shalom"
+      ],
+      "confidence": "documented",
+      "note": "תצלום המצבה המלאה."
+    },
+    {
+      "date": "1984-04-26",
+      "title": "פטירת צפורה מנחמי",
+      "people": [
+        "zipporah"
+      ],
+      "confidence": "documented",
+      "note": "כ״ה בניסן תשמ״ד, תצלום המצבה המלאה."
+    },
+    {
+      "date": "1998-12-04",
+      "title": "פטירת שושנה מרמור",
+      "people": [
+        "shoshana"
+      ],
+      "confidence": "documented",
+      "note": "ט״ו בכסלו תשנ״ט, תצלום המצבה."
+    }
+  ]
+}
