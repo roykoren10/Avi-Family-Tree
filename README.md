@@ -33,3 +33,9 @@ Publish the contents of `site/` to the `gh-pages` branch and configure GitHub Pa
 ## Design
 
 A restrained heritage archive with a single green accent, source scans, native system fonts, consistent 6px corners and light/dark modes. The tree is a functional diagram, not a decorative illustration. Native scrolling, zoom and a list alternative support keyboard and mobile navigation. All motion honors reduced-motion preferences.
+
+## Verification result
+
+Local Chrome verification passed at 1440×1080 and 390×844, including person selection, Hebrew search, candidate branch separation, zoom, document and PDF dialogs, report search, the 58-row JRI report, fragment deep links, mobile list mode and both color themes. No page errors or failed asset requests occurred.
+
+Lighthouse 12.8.2, using the mobile simulated profile against the local server, reported Performance 98, Accessibility 100, Best Practices 100 and SEO 100. Largest Contentful Paint was 2.4 seconds, Total Blocking Time 0 ms and Cumulative Layout Shift 0.003. These are local audit results, not guarantees for every network or device.

@@ -1,7 +1,11 @@
 const $ = (selector) => document.querySelector(selector);
 const esc = (text = '') => String(text).replace(/[&<>"']/g, (c) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const labels = {documented:'מתועד במקור',family:'מידע משפחתי',secondary:'מקור משני',candidate:'מועמד למחקר',calculated:'חישוב מותנה',open:'שאלה פתוחה'};
-let data, notes, people, documents;
+let data, notes = {}, people, documents, notesPromise;
+async function loadNotes() {
+  if (!notesPromise) notesPromise = fetch('notes.json').then(response => { if (!response.ok) throw new Error('Research reports unavailable'); return response.json(); }).then(result => notes = result);
+  return notesPromise;
+}
 let selected='avraham', branch='family', scale=.75, mode=matchMedia('(max-width:767px)').matches?'list':'graph', currentView='tree';
 let graphWidth=0, graphHeight=0, nodePositions=new Map();
 const badge = (status) => `<span class="badge ${esc(status)}">${esc(labels[status] || status)}</span>`;
@@ -108,11 +112,12 @@ function renderDocuments() {
   $('#document-count').textContent=docs.length+' מסמכים';
   $('#documents').innerHTML=docs.map(doc=>`<article class="document-card"><button data-document="${esc(doc.id)}" aria-label="צפייה: ${esc(doc.title)}">${isImage(doc)?`<img src="${esc(thumbnail(doc))}" alt="${esc(doc.title)}" loading="lazy" width="350" height="235">`:`<div class="text-preview">${doc.type==='PDF'?'גיליון עיתון מלא':'דוח מחקר'}</div>`}</button><h3>${esc(doc.title)}</h3><p>${esc(doc.category)} · ${esc(doc.type)} · ${(doc.bytes/1024/1024).toFixed(2)} MB</p>${doc.id.includes('1908-marriage-scan')?'<p class="document-note">סריקת כרך למחקר; שמות רבים טרם פוענחו.</p>':''}<div class="card-links"><a href="${esc(doc.file)}" target="_blank" rel="noopener">פתיחת המקור</a><a href="${esc(doc.file)}" download>הורדה</a></div></article>`).join('')||'<div class="empty">לא נמצאו מסמכים. נסו שנה או שם אחר, או בחרו בכל המסמכים.</div>';
 }
-function showDocument(id) {
+async function showDocument(id) {
   const doc=documents.get(id);if(!doc)return;
   $('#dialog-title').textContent=doc.title;
   $('#dialog-note').textContent=doc.note || (doc.id.includes('1908-marriage-scan')?'חלק מכרך מחקר. אין פירוש הדבר שהסריקה פוענחה או שהיא תעודת אדם מזוהה.':doc.type==='MD'?'דוח מחקר. קריאות היסטוריות כפופות לתיקונים בתמונת המצב העדכנית.':'הסריקה השמורה. פרטי המקור והוודאות מופיעים בתיקי האדם ובדוחות המחקר.');
   $('#open-document').href=doc.file;$('#download-document').href=doc.file;
+  if(doc.type==='MD') await loadNotes();
   $('#document-viewer').innerHTML=isImage(doc)?`<img src="${esc(doc.file)}" alt="${esc(doc.title)}">`:doc.type==='PDF'?`<iframe src="${esc(doc.file)}" title="${esc(doc.title)}"></iframe>`:`<div class="report-content">${markdown(notes[id]||'הדוח אינו זמין בתצוגה. אפשר לפתוח את קובץ המקור.')}</div>`;
   if(!$('#document-dialog').open)$('#document-dialog').showModal();
 }
@@ -143,11 +148,13 @@ function markdown(raw) {
     closeList();paragraph.push(line);
   }flush();closeList();flushTable();return out.join('');
 }
-function renderReport(id) {
+async function renderReport(id) {
+  try { await loadNotes(); } catch { $('#report-content').innerHTML='<p>דוח המחקר לא נטען. אפשר לרענן את הדף או להוריד את המקור מהספרייה.</p>'; return; }
   const text=notes[id];if(!text)return;
   $('#report-content').innerHTML=`<a class="report-download" href="${esc(documents.get(id).file)}" download>הורדת דוח המחקר</a>`+markdown(text);
 }
-function searchNotes() {
+async function searchNotes() {
+  try { await loadNotes(); } catch { $('#note-results').textContent='דוחות המחקר לא נטענו. נסו לרענן את הדף.'; return; }
   const query=$('#note-search').value.trim().toLowerCase();if(query.length<2){$('#note-results').innerHTML='';return;}
   let hits=[];
   for(const [id,text] of Object.entries(notes)){for(const paragraph of text.split(/\n\s*\n/)){const index=paragraph.toLowerCase().indexOf(query);if(index>=0)hits.push({id,excerpt:paragraph.slice(Math.max(0,index-60),index+160)});}}
@@ -174,12 +181,12 @@ viewport.addEventListener('pointermove',e=>{if(!dragging)return;viewport.scrollL
 const endDrag=()=>{dragging=null;viewport.classList.remove('dragging');};viewport.addEventListener('pointerup',endDrag);viewport.addEventListener('pointercancel',endDrag);
 window.addEventListener('hashchange',route);
 try {
-  const responses=await Promise.all([fetch('data.json'),fetch('notes.json')]);
-  if(responses.some(r=>!r.ok))throw new Error('Archive response unavailable');
-  [data,notes]=await Promise.all(responses.map(r=>r.json()));people=new Map(data.people.map(p=>[p.id,p]));documents=new Map(data.documents.map(d=>[d.id,d]));
+  const response=await fetch('data.json');
+  if(!response.ok)throw new Error('Archive response unavailable');
+  data=await response.json();people=new Map(data.people.map(p=>[p.id,p]));documents=new Map(data.documents.map(d=>[d.id,d]));
   $('#stats').innerHTML=`<span><strong>${data.people.length}</strong>תיקי אדם</span><span><strong>${data.documents.length}</strong>מסמכים</span><span><strong>${data.branches.length}</strong>ענפי מחקר</span>`;
   $('#updated').textContent='עודכן '+data.updated+'.';$('#branch').innerHTML=data.branches.map(b=>`<option value="${esc(b.id)}">${esc(b.name)}</option>`).join('');
-  $('#report').innerHTML=Object.keys(notes).sort((a,b)=>a==='family-tree-current.md'?-1:b==='family-tree-current.md'?1:0).map(id=>`<option value="${esc(id)}">${esc(documents.get(id).title)}</option>`).join('');
+  $('#report').innerHTML=data.documents.filter(doc=>doc.type==='MD').map(doc=>doc.id).sort((a,b)=>a==='family-tree-current.md'?-1:b==='family-tree-current.md'?1:0).map(id=>`<option value="${esc(id)}">${esc(documents.get(id).title)}</option>`).join('');
   renderTimeline();$('#loading').hidden=true;route();
 } catch(error) {
   $('#loading').innerHTML='<h2>הארכיון לא נטען</h2><p>נסו לרענן את הדף. אפשר גם לפתוח את <a href="assets/documents/family-tree-current.md">תמונת המצב כקובץ</a>.</p>';console.error(error);
