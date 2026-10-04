@@ -60,7 +60,8 @@ assert all(text in notes['plonsk-1917-birth-reading.md'] for text in ['44-45', '
 assert len(people) == 62 and len(data['relationships']) == 72 and len(notes) == 23
 assert '27 צירופי שם מדויקים ושתי בדיקות' in notes['tzvi-lucia-naturalization-search.md']
 assert 'שם האדם והעיר לא נקראו' in notes['family-tree-current.md']
-assert '482-493 ו־495-612' in notes['immigration-ocr-partial-search.md']
+assert all(text in notes['immigration-ocr-partial-search.md'] for text in ['612 עמודים ייחודיים', 'כל 612', '21 עמודים', 'עמוד 133', 'שורה 49', 'גיל 21', 'שם המשפחה', 'לא מוכרע', 'אין לומר שכל המועמדים נשללו', 'עמוד 494'])
+assert 'אין לומר שכל המועמדים נשללו' in notes['family-tree-current.md']
 assert 'MV6HM' in notes['yarkoni-burial-search-followup.md'] and 'מועמד לא מזוהה' in notes['yarkoni-burial-search-followup.md']
 assert people['avraham']['dates'] == '29.11.1945' and people['avraham']['status'] == 'family'
 assert not any(r['kind'] == 'spouse' and 'zipporah' in [r['fromId'], r['toId']] for r in data['relationships'])
