@@ -36,7 +36,7 @@ for name, content in notes.items():
     assert name in documents and (root / documents[name]['file']).read_text() == content, name
     assert '/Users/' not in content, name
 assert len([document for document in documents if '1908-marriage-scan' in document]) == 39
-assert len(documents) == 104
+assert len(documents) == 110
 assert {doc['id'] for doc in documents.values() if doc['type'] == 'MD'} == set(notes)
 for name in ['yocheved-grave-identification.md', 'myheritage-match-followup.md', 'plonsk-1914-birth-reading.md', 'plonsk-1915-birth-reading.md', 'banko-name-change-followup.md', 'kosava-original-records-route.md', 'hirsch-birth-candidates.md', 'yocheved-naturalization-followup.md', 'jewishgen-focused-followup.md']:
     content = notes[name]
@@ -51,6 +51,15 @@ assert all(name in notes['hirsch-birth-candidates.md'] for name in ['Moszek Józ
 assert 'מספר דף פנקס' in notes['hirsch-birth-candidates.md'] and 'תאריך הלידה לא אומת' in notes['hirsch-birth-candidates.md']
 assert 'שבע השאילתות' in notes['yocheved-naturalization-followup.md'] and 'באינדקס בלבד' in notes['yocheved-naturalization-followup.md']
 assert 'תת־קבוצה בתוך אותן 129' in notes['jewishgen-focused-followup.md'] and 'בדיקה חוזרת' in notes['jewishgen-focused-followup.md']
+for name in ['plonsk-1916-birth-reading.md', 'kosava-public-copy-search.md', 'tzvi-lucia-naturalization-search.md', 'yarkoni-burial-search-followup.md', 'plonsk-1907-voter-followup.md', 'immigration-ocr-partial-search.md']:
+    content = notes[name]
+    assert documents[name]['bytes'] == len(content.encode()), name
+    assert not any(private in content for private in ['/Users/', 'pages.jsonl', 'run.log', 'PID ', 'Chrome', 'המחובר לחשבון', 'discovery-hub/', 'match-compare/', 'perm_id=', 'logowanie']), name
+assert all(text in notes['plonsk-1916-birth-reading.md'] for text in ['1-145', 'Lejb Blumstein', 'Jankel Abramowicz', 'Moszek Sznajder', 'שלילה מוגבלת'])
+assert '27 צירופי שם מדויקים ושתי בדיקות' in notes['tzvi-lucia-naturalization-search.md']
+assert 'שם האדם והעיר לא נקראו' in notes['family-tree-current.md']
+assert '482-493 ו־495-612' in notes['immigration-ocr-partial-search.md']
+assert 'MV6HM' in notes['yarkoni-burial-search-followup.md'] and 'מועמד לא מזוהה' in notes['yarkoni-burial-search-followup.md']
 assert people['avraham']['dates'] == '29.11.1945' and people['avraham']['status'] == 'family'
 assert not any(r['kind'] == 'spouse' and 'zipporah' in [r['fromId'], r['toId']] for r in data['relationships'])
 assert {r['fromId'] for r in data['relationships'] if r['toId'] == 'lucia' and r['kind'] == 'parent'} == {'moshe', 'yocheved'}
