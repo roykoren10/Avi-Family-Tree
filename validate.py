@@ -36,16 +36,21 @@ for name, content in notes.items():
     assert name in documents and (root / documents[name]['file']).read_text() == content, name
     assert '/Users/' not in content, name
 assert len([document for document in documents if '1908-marriage-scan' in document]) == 39
-assert len(documents) == 101
+assert len(documents) == 104
 assert {doc['id'] for doc in documents.values() if doc['type'] == 'MD'} == set(notes)
-for name in ['yocheved-grave-identification.md', 'myheritage-match-followup.md', 'plonsk-1914-birth-reading.md', 'plonsk-1915-birth-reading.md', 'banko-name-change-followup.md', 'kosava-original-records-route.md']:
+for name in ['yocheved-grave-identification.md', 'myheritage-match-followup.md', 'plonsk-1914-birth-reading.md', 'plonsk-1915-birth-reading.md', 'banko-name-change-followup.md', 'kosava-original-records-route.md', 'hirsch-birth-candidates.md', 'yocheved-naturalization-followup.md', 'jewishgen-focused-followup.md']:
     content = notes[name]
-    assert not any(private in content for private in ['discovery-hub/', 'match-compare/', 'perm_id=', '../work/']), name
+    assert not any(private in content for private in ['discovery-hub/', 'match-compare/', 'perm_id=', '../work/', 'favsearch.php', 'Logged in:']), name
     assert documents[name]['bytes'] == len(content.encode()), name
 assert people['yocheved']['dates'] == 'מגורי קוסוב פולסקי ב־1933'
 assert any(fact['confidence'] == 'candidate' and 'BG24024099' in fact['text'] and 'אין בעל' in fact['text'] for fact in people['yocheved']['facts'])
 assert 'י״ג סיון תש״י' in notes['yocheved-grave-identification.md']
 assert '42' in notes['plonsk-1915-birth-reading.md'] and 'Baum' in notes['plonsk-1915-birth-reading.md']
+assert 'Алфавитъ родившихся евреевъ въ теченіе 1914 года' in notes['plonsk-1914-birth-reading.md']
+assert all(name in notes['hirsch-birth-candidates.md'] for name in ['Moszek Józef Fuks', 'Moszek Michel Finsker', 'Lejb Homan'])
+assert 'מספר דף פנקס' in notes['hirsch-birth-candidates.md'] and 'תאריך הלידה לא אומת' in notes['hirsch-birth-candidates.md']
+assert 'שבע השאילתות' in notes['yocheved-naturalization-followup.md'] and 'באינדקס בלבד' in notes['yocheved-naturalization-followup.md']
+assert 'תת־קבוצה בתוך אותן 129' in notes['jewishgen-focused-followup.md'] and 'בדיקה חוזרת' in notes['jewishgen-focused-followup.md']
 assert people['avraham']['dates'] == '29.11.1945' and people['avraham']['status'] == 'family'
 assert not any(r['kind'] == 'spouse' and 'zipporah' in [r['fromId'], r['toId']] for r in data['relationships'])
 assert {r['fromId'] for r in data['relationships'] if r['toId'] == 'lucia' and r['kind'] == 'parent'} == {'moshe', 'yocheved'}

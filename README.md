@@ -36,6 +36,8 @@ A restrained heritage archive with a single green accent, source scans, native s
 
 ## Verification result
 
+The 4 October 2026 content refresh brings the library to 104 items and 16 reports. It identifies the 1914 birth-index section without claiming a completed name search, compares three 1915 Hersz birth acts with the known parent names, and records seven limited naturalization queries. The 129-row Kossovo census review is a repeat; its 15 town-resident rows are a subset. The 62 people and 72 relationships remain unchanged. This content-only refresh is validated through source review, JSON/reference checks and byte comparison with public HTTP responses; browser automation is not used.
+
 The 3 October 2026 research refresh adds six public reports (13 total) and brings the library to 101 items. It preserves the 62 person dossiers and 72 relationships. The Yocheved grave is a strong identity candidate; its father and Hebrew death date were read from the photograph, while its Gregorian date and cemetery are indexed data. No husband, daughters, maiden name or exact birth year was inferred. Private MyHeritage comparison links, account details and new living-person information were omitted. The 1914/1915 Płońsk searches remain qualified by their actual coverage.
 
 Local Chrome verification passed at 1440×1080 and 390×844, including person selection, Hebrew search, candidate branch separation, zoom, document and PDF dialogs, report search, the 58-row JRI report, fragment deep links, mobile list mode and both color themes. No page errors or failed asset requests occurred.
