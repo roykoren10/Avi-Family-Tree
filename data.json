@@ -113,6 +113,11 @@
           "text": "ב־1917 זוהו אינדקס הלידות בדפים 44-45 וטווחי שורות חלקיים. Hersz Taub, אקט 98 בדף 26, קשור ל־Moszek Taub ולילד שנולד מאשתו; אין צמד ההורים אברהם יעקב וחיה מלכה או זיהוי עם צבי. שורות לא ברורות ויתר האקטים לא נבדקו; אין שלילה מלאה בכרך.",
           "confidence": "open",
           "source": "דוח פלונסק 1917: בדיקה חלקית"
+        },
+        {
+          "text": "ב־1918 זוהה אינדקס לידות בסריקות 88-89; Binkis Sara Tajpa הוא דמיון שם לא מוכרע, ללא מספר אקט או הורים מאומתים. ב־1919 נבדקו רק שורות 1-27 בסריקה 104. קטלוג Skanoteka מאשר 57 קובצי לידות 1920, שלא נקראו בדוח הזה. אין זיהוי של צבי או שלילה מלאה.",
+          "confidence": "open",
+          "source": "דוח פלונסק 1918-1920: כיסוי חלקי וקטלוג"
         }
       ],
       "documents": [
@@ -129,7 +134,8 @@
         "yarkoni-burial-search-followup.md",
         "plonsk-1907-voter-followup.md",
         "immigration-ocr-partial-search.md",
-        "plonsk-1917-birth-reading.md"
+        "plonsk-1917-birth-reading.md",
+        "plonsk-1918-1920-birth-reading.md"
       ],
       "sources": [
         {
@@ -171,6 +177,10 @@
         {
           "label": "GenBaza: אינדקס לידות 1917, דף 44, כיסוי חלקי",
           "url": "https://genbaza.pl/metryki/hq10kwr1dn/ap-mlawa-76/plonsk/plonsk-moj/1917-157/44"
+        },
+        {
+          "label": "Skanoteka: קטלוג לידות פלונסק 1920, 57 קבצים, ללא קריאה בדוח",
+          "url": "https://skanoteka.genealodzy.pl/id1913-sy1920-kt3"
         }
       ],
       "status": "documented",
@@ -3111,7 +3121,7 @@
       "type": "MD",
       "category": "מחקר",
       "people": [],
-      "bytes": 198102
+      "bytes": 198522
     },
     {
       "id": "family-tree-current.md",
@@ -3120,7 +3130,7 @@
       "type": "MD",
       "category": "מחקר",
       "people": [],
-      "bytes": 29622
+      "bytes": 30042
     },
     {
       "id": "immigration-finance-page-86.png",
@@ -4301,6 +4311,18 @@
       ],
       "bytes": 3194,
       "note": "כיסוי אינדקס חלקי ואקט מועמד; אינו תעודת לידת צבי או שלילה מלאה בכרך."
+    },
+    {
+      "id": "plonsk-1918-1920-birth-reading.md",
+      "title": "פלונסק 1918-1920: כיסוי חלקי וקטלוג",
+      "file": "assets/documents/plonsk-1918-1920-birth-reading.md",
+      "type": "MD",
+      "category": "מחקר",
+      "people": [
+        "tzvi"
+      ],
+      "bytes": 4102,
+      "note": "1918-1919: אינדקס חלקי; 1920: מקור קטלוגי בלבד, ללא קריאת סריקות."
     }
   ],
   "timeline": [
