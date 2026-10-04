@@ -36,7 +36,7 @@ for name, content in notes.items():
     assert name in documents and (root / documents[name]['file']).read_text() == content, name
     assert '/Users/' not in content, name
 assert len([document for document in documents if '1908-marriage-scan' in document]) == 39
-assert len(documents) == 111
+assert len(documents) == 112
 assert {doc['id'] for doc in documents.values() if doc['type'] == 'MD'} == set(notes)
 for name in ['yocheved-grave-identification.md', 'myheritage-match-followup.md', 'plonsk-1914-birth-reading.md', 'plonsk-1915-birth-reading.md', 'banko-name-change-followup.md', 'kosava-original-records-route.md', 'hirsch-birth-candidates.md', 'yocheved-naturalization-followup.md', 'jewishgen-focused-followup.md']:
     content = notes[name]
@@ -51,13 +51,14 @@ assert all(name in notes['hirsch-birth-candidates.md'] for name in ['Moszek Józ
 assert 'מספר דף פנקס' in notes['hirsch-birth-candidates.md'] and 'תאריך הלידה לא אומת' in notes['hirsch-birth-candidates.md']
 assert 'שבע השאילתות' in notes['yocheved-naturalization-followup.md'] and 'באינדקס בלבד' in notes['yocheved-naturalization-followup.md']
 assert 'תת־קבוצה בתוך אותן 129' in notes['jewishgen-focused-followup.md'] and 'בדיקה חוזרת' in notes['jewishgen-focused-followup.md']
-for name in ['plonsk-1916-birth-reading.md', 'kosava-public-copy-search.md', 'tzvi-lucia-naturalization-search.md', 'yarkoni-burial-search-followup.md', 'plonsk-1907-voter-followup.md', 'immigration-ocr-partial-search.md', 'plonsk-1917-birth-reading.md']:
+for name in ['plonsk-1916-birth-reading.md', 'kosava-public-copy-search.md', 'tzvi-lucia-naturalization-search.md', 'yarkoni-burial-search-followup.md', 'plonsk-1907-voter-followup.md', 'immigration-ocr-partial-search.md', 'plonsk-1917-birth-reading.md', 'plonsk-1918-1920-birth-reading.md']:
     content = notes[name]
     assert documents[name]['bytes'] == len(content.encode()), name
     assert not any(private in content for private in ['/Users/', 'pages.jsonl', 'run.log', 'PID ', 'Chrome', 'המחובר לחשבון', 'discovery-hub/', 'match-compare/', 'perm_id=', 'logowanie']), name
 assert all(text in notes['plonsk-1916-birth-reading.md'] for text in ['1-145', 'Lejb Blumstein', 'Jankel Abramowicz', 'Moszek Sznajder', 'שלילה מוגבלת'])
 assert all(text in notes['plonsk-1917-birth-reading.md'] for text in ['44-45', '1-30 ו־32-59', '64-95, 96-125, 126-155 ו־156-166', 'Moszek Taub', 'מאשתו', 'שלילה מלאה', 'אקט 98'])
-assert len(people) == 62 and len(data['relationships']) == 72 and len(notes) == 23
+assert all(text in notes['plonsk-1918-1920-birth-reading.md'] for text in ['88-89', 'שורות 1-27 בלבד', 'Binkis Sara Tajpa', 'מספר האקט לא אומת', '57 קובצי הלידות', 'לא נפתחו ולא נקראו', 'מקור קטלוגי'])
+assert len(people) == 62 and len(data['relationships']) == 72 and len(notes) == 24
 assert '27 צירופי שם מדויקים ושתי בדיקות' in notes['tzvi-lucia-naturalization-search.md']
 assert 'שם האדם והעיר לא נקראו' in notes['family-tree-current.md']
 assert all(text in notes['immigration-ocr-partial-search.md'] for text in ['612 עמודים ייחודיים', 'כל 612', '21 עמודים', 'עמוד 133', 'שורה 49', 'גיל 21', 'שם המשפחה', 'לא מוכרע', 'אין לומר שכל המועמדים נשללו', 'עמוד 494'])
