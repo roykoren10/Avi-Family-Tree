@@ -1,5 +1,5 @@
 {
-  "updated": "3 באוקטובר 2026",
+  "updated": "4 באוקטובר 2026",
   "people": [
     {
       "id": "avraham",
@@ -80,12 +80,12 @@
           "source": "דוח שינויי השמות"
         },
         {
-          "text": "בפלונסק 1914 נבדקו דגימות בלבד. באינדקס הלידות 1915, דף 27, נבדקו 42 שורות ללא הצירוף המבוקש; אקטים 31–33 הם Baum/Fuks. אין תעודת לידת הירש ואין שלילה מעבר לאינדקס ולאיותים שנבדקו.",
+          "text": "דפים 36–37 ב־1914 זוהו כאינדקס לידות; שמותיו טרם פוענחו במלואם. ב־1915 נקראו אקטי Hersz 2/27/42: האבות Fuks/Finsker/Homan אינם אברהם יעקב. 48 בדף סריקה 28 הוא מספר דף פנקס. אין תעודת לידת הירש ואין שלילה מעבר לאינדקס ולאיותים שנבדקו.",
           "confidence": "open",
           "source": "דוחות GenBaza 1914/153 ו־1915/154"
         },
         {
-          "text": "חיפוש אינטרנט נוסף לא מצא מסמך המחבר בנקו–ירקוני. באוסף העיתון הרשמי כבר נבדקו תקצירי OCR: Yarkoni 47, Banko 4, Banka 16, ירקוני 45 ובנקו 53. לא נקראו כל ההופעות והסריקות; דרושים איותים נוספים. מאגר שינויי השם הנפרד של IGRA עדיין דורש בדיקה.",
+          "text": "נבדקו 44 תקצירי Yarkoni בשינויי שמות IGRA וחיפושי צירוף ושלוש סריקות Gazette ללא קישור בנקו–ירקוני. חיפושי OCR קודמים: Yarkoni 47, Banko 4, Banka 16, ירקוני 45 ובנקו 53. לא נקראו כל ההופעות והסריקות; השלילה מוגבלת.",
           "confidence": "open",
           "source": "דוח המשך שינוי השם"
         }
@@ -97,7 +97,8 @@
         "davar-1945-01-19.pdf",
         "plonsk-1914-birth-reading.md",
         "plonsk-1915-birth-reading.md",
-        "banko-name-change-followup.md"
+        "banko-name-change-followup.md",
+        "hirsch-birth-candidates.md"
       ],
       "sources": [
         {
@@ -316,6 +317,11 @@
           "text": "Movsha Leyb בן Abel בברסט 1906 אינו מזוהה עם אדם זה; הכלה באינדקס היא Fruma Zelkin.",
           "confidence": "candidate",
           "source": "JewishGen"
+        },
+        {
+          "text": "129 שורות מפקד Kossovo כבר נבדקו ונבדקו שוב. 15 המתייחסים למגורים בעיר הם תת־קבוצה, לא מדור חדש. בית Tevel/Beila הוא רשומה קודמת בלי קשר מוכח למשה או ליוכבד; אין שלילה מלאה של תושבי העיר.",
+          "confidence": "open",
+          "source": "דוח כיסוי JewishGen, בדיקה חוזרת"
         }
       ],
       "documents": [
@@ -324,7 +330,8 @@
         "liba-ahuva-menachemi-marriage-1933.jpg",
         "zipporah-menachemi-grave-full.jpg",
         "shoshana-shalom-marmor-grave.jpg",
-        "kosava-original-records-route.md"
+        "kosava-original-records-route.md",
+        "jewishgen-focused-followup.md"
       ],
       "sources": [
         {
@@ -392,6 +399,11 @@
           "text": "מסמך BillionGraves הכללי ב־Geni אינו מציג את מזהה הקבר 24024099 ואינו ראיה עצמאית נוספת. Tuchman מופיע בעץ Geni בלבד.",
           "confidence": "secondary",
           "source": "Geni ודוח זיהוי המצבה"
+        },
+        {
+          "text": "שבע שאילתות מדויקות באינדקס ההתאזרחות MyHeritage 10902 לא מצאו התאמה. אין כאן שלילה של כל האוסף, כל איות או הופעה כבת זוג/אם בתיק של אדם אחר. הרחבות החיפוש לא הוסיפו מועמדים.",
+          "confidence": "open",
+          "source": "דוח התאזרחות יוכבד, 4.10.2026"
         }
       ],
       "documents": [
@@ -402,7 +414,9 @@
         "shoshana-shalom-marmor-grave.jpg",
         "yocheved-grave-identification.md",
         "myheritage-match-followup.md",
-        "kosava-original-records-route.md"
+        "kosava-original-records-route.md",
+        "yocheved-naturalization-followup.md",
+        "jewishgen-focused-followup.md"
       ],
       "sources": [
         {
@@ -3008,7 +3022,7 @@
       "type": "MD",
       "category": "מחקר",
       "people": [],
-      "bytes": 194196
+      "bytes": 195455
     },
     {
       "id": "family-tree-current.md",
@@ -3017,7 +3031,7 @@
       "type": "MD",
       "category": "מחקר",
       "people": [],
-      "bytes": 24061
+      "bytes": 27116
     },
     {
       "id": "immigration-finance-page-86.png",
@@ -4028,7 +4042,7 @@
       "people": [
         "tzvi"
       ],
-      "bytes": 2485,
+      "bytes": 3344,
       "note": "דוח מחקר וגבולות בדיקה; אינו סריקת מקור חדשה או הוכחת זיהוי משפחתי."
     },
     {
@@ -4040,7 +4054,7 @@
       "people": [
         "tzvi"
       ],
-      "bytes": 5462,
+      "bytes": 8129,
       "note": "דוח מחקר וגבולות בדיקה; אינו סריקת מקור חדשה או הוכחת זיהוי משפחתי."
     },
     {
@@ -4052,7 +4066,7 @@
       "people": [
         "tzvi"
       ],
-      "bytes": 8715,
+      "bytes": 10372,
       "note": "דוח מחקר וגבולות בדיקה; אינו סריקת מקור חדשה או הוכחת זיהוי משפחתי."
     },
     {
@@ -4065,8 +4079,45 @@
         "moshe",
         "yocheved"
       ],
-      "bytes": 4434,
+      "bytes": 4582,
       "note": "דוח מחקר וגבולות בדיקה; אינו סריקת מקור חדשה או הוכחת זיהוי משפחתי."
+    },
+    {
+      "id": "hirsch-birth-candidates.md",
+      "title": "השוואת מועמדי Hersz מול הורי צבי",
+      "file": "assets/documents/hirsch-birth-candidates.md",
+      "type": "MD",
+      "category": "מחקר",
+      "people": [
+        "tzvi"
+      ],
+      "bytes": 3299,
+      "note": "דוח השוואה או חיפוש מוגבל; אינו זיהוי משפחתי חדש או סריקת מקור שהועלתה לאתר."
+    },
+    {
+      "id": "yocheved-naturalization-followup.md",
+      "title": "יוכבד: שבע שאילתות התאזרחות",
+      "file": "assets/documents/yocheved-naturalization-followup.md",
+      "type": "MD",
+      "category": "מחקר",
+      "people": [
+        "yocheved"
+      ],
+      "bytes": 2357,
+      "note": "דוח השוואה או חיפוש מוגבל; אינו זיהוי משפחתי חדש או סריקת מקור שהועלתה לאתר."
+    },
+    {
+      "id": "jewishgen-focused-followup.md",
+      "title": "JewishGen: כיסוי השמות ומפקד קוסובה",
+      "file": "assets/documents/jewishgen-focused-followup.md",
+      "type": "MD",
+      "category": "מחקר",
+      "people": [
+        "moshe",
+        "yocheved"
+      ],
+      "bytes": 3123,
+      "note": "דוח השוואה או חיפוש מוגבל; אינו זיהוי משפחתי חדש או סריקת מקור שהועלתה לאתר."
     }
   ],
   "timeline": [
