@@ -57,7 +57,7 @@ for name in ['plonsk-1916-birth-reading.md', 'kosava-public-copy-search.md', 'tz
     assert not any(private in content for private in ['/Users/', 'pages.jsonl', 'run.log', 'PID ', 'Chrome', 'המחובר לחשבון', 'discovery-hub/', 'match-compare/', 'perm_id=', 'logowanie']), name
 assert all(text in notes['plonsk-1916-birth-reading.md'] for text in ['1-145', 'Lejb Blumstein', 'Jankel Abramowicz', 'Moszek Sznajder', 'שלילה מוגבלת'])
 assert all(text in notes['plonsk-1917-birth-reading.md'] for text in ['44-45', '1-30 ו־32-59', '64-95, 96-125, 126-155 ו־156-166', 'Moszek Taub', 'מאשתו', 'שלילה מלאה', 'אקט 98'])
-assert all(text in notes['plonsk-1918-1920-birth-reading.md'] for text in ['88-89', 'שורות 1-27 בלבד', 'Binkis Sara Tajpa', 'מספר האקט לא אומת', '57 קובצי הלידות', 'לא נפתחו ולא נקראו', 'מקור קטלוגי'])
+assert all(text in notes['plonsk-1918-1920-birth-reading.md'] for text in ['88-89', 'שורות 1-27 בלבד', 'Binkis Sara Tajpa', 'מספר האקט לא אומת', '57 קבצים', '55 מתוך 57', 'SkU-1.jpg', 'התמונה לא נקרא', 'לא נקראו כותרת אינדקס', 'מקור קטלוגי'])
 assert len(people) == 62 and len(data['relationships']) == 72 and len(notes) == 24
 assert '27 צירופי שם מדויקים ושתי בדיקות' in notes['tzvi-lucia-naturalization-search.md']
 assert 'שם האדם והעיר לא נקראו' in notes['family-tree-current.md']
